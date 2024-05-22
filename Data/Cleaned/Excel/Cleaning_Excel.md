@@ -18,6 +18,11 @@
 ### Method 2: Advanced Filter
 Data > sort & Filter > Advanced
 
+<p align="center">
+  <img src="method 2 advanced filter.jpg" alt="Description of the image">
+</p>
+
+
 ### Method 3: =UNIQUE(table)
 N/A (only availble in Office365
 
