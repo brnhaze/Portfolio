@@ -12,7 +12,7 @@
 2. Data > Data Tools > Remove Duplicates
 
 <p align="center">
-  <img src="Method 1 remove duplicaets.jpg" alt="Description of the image">
+  <img src="Method 1 remove duplicates.jpg" alt="Description of the image">
 </p>
 
 ### Method 2: Advanced Filter
@@ -21,7 +21,6 @@ Data > sort & Filter > Advanced
 <p align="center">
   <img src="method 2 advanced filter.jpg" alt="Description of the image">
 </p>
-
 
 ### Method 3: =UNIQUE(table)
 N/A (only availble in Office365
@@ -36,6 +35,9 @@ Skipped Step as it will change my table
 
 Overlapping sections
 
+<p align="center">
+  <img src="Removing empty_blank cells.jpg" alt="Description of the image">
+</p>
 
 ### Method 3: =UNIQUE(table)
 N/A (only availble in Office365
