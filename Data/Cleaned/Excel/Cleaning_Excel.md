@@ -5,8 +5,6 @@
   <img src="Create Table.jpg" alt="Description of the image">
 </p>
 
-
-
 ## Remove Duplicates
 
 ### Method 1: Duplicates Feature
@@ -20,7 +18,8 @@
 ### Method 2: Advanced Filter
 Data > sort & Filter > Advanced
 
-  GNU nano 7.2                                 Cleaning_Excel.md                                  Modified
+
+
 # Clean and Explore Data
 
 ## Create Table
