@@ -2,7 +2,7 @@
 
 ## Create Table
 <p align="center">
-  <img src="Create Tablle.jpg" alt="Description of the image">
+  <img src="Create Table.jpg" alt="Description of the image">
 </p>
 
 
