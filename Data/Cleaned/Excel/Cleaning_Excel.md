@@ -45,9 +45,8 @@ Overlapping sections
 Data > Filters
 
 <p align="center">
-  <img src="filters.jpg" alt="Description of the image">
+  <img src="Filters.jpg" alt="Description of the image">
 </p>
-
 
 ### Conditional Formatting
 
