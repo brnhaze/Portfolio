@@ -46,6 +46,12 @@ Data > Filters
 
 ### Data Validation
 
+<p align="center">
+  <img src="data validation 1.jpg" alt="Description of image 1" style="display:inline-block; margin-right:10px;">
+  <img src="data validation 2.jpg" image2-url" alt="Description of image 2" style="display:inline-block;">
+</p>
+
+
 ## Remove [ ] Beginning and End of Cells with Characters
 Visual Basic for Applications (VBA)
 
