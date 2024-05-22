@@ -18,32 +18,6 @@
 ### Method 2: Advanced Filter
 Data > sort & Filter > Advanced
 
-
-
-# Clean and Explore Data
-
-## Create Table
-<p align="center">
-  <img src="Create Table.jpg" alt="Description of the image">
-</p>
-
-## Remove Duplicates
-
-### Method 1: Duplicates Feature
-1. Select Data or Highlight Entire Data Set
-2. Data > Data Tools > Remove Duplicates
-
-<p align="center">
-  <img src="Method 1 remove duplicaets.jpg" alt="Description of the image">
-</p>
-
-### Method 2: Advanced Filter
-Data > sort & Filter > Advanced
-
-<p align="center">
-  <img src="Method 2 advanced filter.jpg" alt="Description of the image">
-</p>
-
 ### Method 3: =UNIQUE(table)
 N/A (only availble in Office365
 
