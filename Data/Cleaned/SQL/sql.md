@@ -1,16 +1,16 @@
 # Quality Assurance
 
 ## Files
-[Uncleaned: Disney_movies.csv]()
-[Cleaned: movies.csv]()
+- [Uncleaned: Disney_movies.csv]()
+- [Cleaned: movies.csv]()
 
 ## .sql files
-[Create dB and tables]()
-[Upload Files]()
-[Quality Assurance]()
-[Quality Assurance 2]()
-[Quality Assurance 3]()
-[Quality Assurance 4]()
+- [Create dB and tables]()
+- [Upload Files]()
+- [Quality Assurance]()
+- [Quality Assurance 2]()
+- [Quality Assurance 3]()
+- [Quality Assurance 4]()
 
 ## Process
 
