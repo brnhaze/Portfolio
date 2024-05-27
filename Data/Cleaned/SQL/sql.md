@@ -52,7 +52,7 @@ Resolved by manually deleting single or double quotations within .csv file prior
 </div>
 
 <div align="center">
-  <img src="7 data profiling" alt="Example Image" width="300"/>
+  <img src="7 data profiling.jpg" alt="Example Image" width="300"/>
 </div>
 
 
