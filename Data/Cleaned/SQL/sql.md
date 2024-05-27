@@ -9,7 +9,7 @@
 - [Upload Files](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/SQL/2%20Upload%20FIle.sql)
 - [Quality Assurance](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/SQL/3%20Quality%20Assurance.sql)
 - [Quality Assurance 2](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/SQL/4%20Quality%20Assurance%202.sql)
-- [Quality Assurance 3](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/SQL/5%20Quality%20Assurance%203.sql)
+- [Quality Assurance 3 - User-Defined Function (Script)](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/SQL/5%20Quality%20Assurance%203.sql)
 - [Quality Assurance 4](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/SQL/6%20Quality%20Assurance%204.sql)
 
 ## Process
