@@ -1,16 +1,16 @@
 # Quality Assurance
 
 ## Files
-- [Uncleaned: Disney_movies.csv]()
-- [Cleaned: movies.csv]()
+- [Uncleaned: Disney_movies.csv](https://github.com/brnhaze/QA/blob/main/Data/Uncleaned/Disney_movies.csv)
+- [Cleaned: movies.csv](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/SQL/Completed/movies.csv)
 
 ## .sql files
-- [Create dB and tables]()
-- [Upload Files]()
-- [Quality Assurance]()
-- [Quality Assurance 2]()
-- [Quality Assurance 3]()
-- [Quality Assurance 4]()
+- [Create dB and tables](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/SQL/1%20Create%20dB%20and%20Table.sql)
+- [Upload Files](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/SQL/2%20Upload%20FIle.sql)
+- [Quality Assurance](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/SQL/3%20Quality%20Assurance.sql)
+- [Quality Assurance 2](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/SQL/4%20Quality%20Assurance%202.sql)
+- [Quality Assurance 3](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/SQL/5%20Quality%20Assurance%203.sql)
+- [Quality Assurance 4](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/SQL/6%20Quality%20Assurance%204.sql)
 
 ## Process
 
