@@ -39,12 +39,12 @@ Resolved by manually deleting single or double quotations within .csv file prior
 
 
 <div align="center">
-  <img src="data profiling 4.jpg" alt="Example Image" width="300"/>
+  <img src="4 data profiling.jpg" alt="Example Image" width="300"/>
 </div>
 
 
 <div align="center">
-  <img src="data profiling 5.jpg" alt="Example Image" width="300"/>
+  <img src="5 data profiling.jpg" alt="Example Image" width="300"/>
 </div>
 
 <div align="center">
