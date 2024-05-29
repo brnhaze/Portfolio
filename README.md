@@ -17,11 +17,12 @@ Welcome to my data analytics portfolio! This repository contains a collection of
   - Tableau
 
 - Files: 
-  - [Walkthrough file](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/SQL/sql.md)
   - Excel
+    - [Walkthrough](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/Excel/Cleaning_Excel.md)
     - [Excel Uncleaned](https://github.com/brnhaze/QA/blob/main/Data/Uncleaned/Disney_movies.csv)
-    - [Excel Cleaned](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/Excel/Cleaning_Excel.md)
+    - [Excel Cleaned](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/Excel/Disney_movies.csv)
   - SQL
+    - [Walkthrough](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/SQL/sql.md)
     - [Create Database Tables](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/SQL/1%20Create%20dB%20and%20Table.sql)
     - [Upload Files](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/SQL/2%20Upload%20FIle.sql)
     - [Profiling, validation, and cleansing 1](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/SQL/3%20Quality%20Assurance.sql)
@@ -29,7 +30,7 @@ Welcome to my data analytics portfolio! This repository contains a collection of
     - [Currency User Defined Function](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/SQL/5%20Quality%20Assurance%203.sql)
     - [Profiling, validation, and cleansing 3](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/SQL/6%20Quality%20Assurance%204.sql)
   - Pythong
-    - ddd 
+    - [Walkthrough]()
 
 ## Projects
 ### Capstone Project
