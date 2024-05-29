@@ -8,10 +8,10 @@ Welcome to my data analytics portfolio! This repository contains a collection of
   - [Disney Movies](#Disney-Movies)
   - [Capstone Project](#Capstone)
 - [Education & Certifications](#Education)
-- [Cover Letter & Resume](#Resume & Cover_Letter)
+- [Cover Letter & Resume](#Resume)
 - [Contact Information](#Contact)
 
-## About Me
+## About-Me
 
 I have completed the Data Analytics Digital Diploma Program at Lighthouse Labs. I have honed my skills in collecting, processing, and analyzing data to extract insights and inform strategic business decisions. My proficiencies include data visualization tools such as Tableau and Power BI, as well as program languages like Python and R for data manipulation and statistical analysis.
 
@@ -27,7 +27,7 @@ Previously, graduated from British Columbia Institute of Technology (BCIT), comp
 
 ## Projects
 
-### Disney Movies
+### Disney-Movies
 
 - Title: QA
   
@@ -57,7 +57,7 @@ Previously, graduated from British Columbia Institute of Technology (BCIT), comp
   - Pythong
     - [Walkthrough](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/Python/walkthrough.md)
 
-### Capstone Project
+### Capstone
 
 - Title: NFL Penalty Analysis
   
@@ -79,7 +79,7 @@ Previously, graduated from British Columbia Institute of Technology (BCIT), comp
   - [Tableau](https://github.com/brnhaze/capstone/tree/main/Tableau)
 
 
-## Education & Certifications
+## Education
 
   [Data Analytics Diploma, Lighthouse Labs](https://drive.google.com/file/d/1qZi7_tKmb5kzElikBvMGAhvracI2biPU/view)
 
@@ -89,13 +89,13 @@ Previously, graduated from British Columbia Institute of Technology (BCIT), comp
 
   [Law Enforcement Studies Diploma, JIBC](https://drive.google.com/file/d/1_-KxEw3X4hKcqmvhLuSRbENABqgnv3M4/view?usp=sharing)
 
-## Resume & Cover Letter
+## Resume
 
 [Cover Letter](https://drive.google.com/file/d/1YlGPe-iRb_jydOAU2kY4kRTYwUdlUhY4/view?usp=sharing)
 
 [Resume](https://drive.google.com/file/d/1jfE2AZsfjFJUzuhmbRni4mhTa9IaPvQ8/view?usp=drive_link)
 
-## Contact Information
+## Contact
 
   [Email: ashwin_pal@hotmail.com](mailto:ashwin_pal@hotmail.com)
   
