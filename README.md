@@ -2,12 +2,43 @@
 
 Welcome to my data analytics portfolio! This repository contains a collection of projects, analyses, and code snippets that demonstrate my skills and experience in the field of data analytics. Feel free to explore the projects listed below.
 
+### Quality Assurance (QA)
+
+- Title: QA
+  
+- Description:
+
+  I have created this repository for the purpose of showcasing my data profiling, data validation, and data cleansing; and quality assurance processes using Excel, Pythong, SQL, and Tableau.
+  
+- Technologies Used:
+  - Excel
+  - SQL
+  - Python
+  - Tableau
+
+- Link: [QA](https://github.com/brnhaze/QA)
+  
+- Files: 
+  - [Walkthrough file](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/SQL/sql.md)
+  - Excel
+    - [Excel Uncleaned](https://github.com/brnhaze/QA/blob/main/Data/Uncleaned/Disney_movies.csv)
+    - [Excel Cleaned](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/Excel/Cleaning_Excel.md)
+  - SQL
+    - [Create Database Tables](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/SQL/1%20Create%20dB%20and%20Table.sql)
+    - [Upload Files](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/SQL/2%20Upload%20FIle.sql)
+    - [Profiling, validation, and cleansing 1](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/SQL/3%20Quality%20Assurance.sql)
+    - [Profiling, validation, and cleansing 2](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/SQL/4%20Quality%20Assurance%202.sql)
+    - [Currency User Defined Function](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/SQL/5%20Quality%20Assurance%203.sql)
+    - [Profiling, validation, and cleansing 3](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/SQL/6%20Quality%20Assurance%204.sql)
+
 ## Projects
 ### Capstone Project
 
 - Title: NFL Penalty Analysis
   
 - Description:
+
+  Lighthouse Labs Capstone Project
 
   Explore whether certain player positions tend to receive more penalties than others. Analyzing the distribution of penalties based on player positions to identify any patterns or tendencies.
   
@@ -18,41 +49,23 @@ Welcome to my data analytics portfolio! This repository contains a collection of
   - Python (Jupyter Labs)
   - [Tableau](https://github.com/brnhaze/capstone/tree/main/Tableau)
   
-    Please download all contents including images and direct to "Story" sheet
-
-- Key Contributions
+    Please download all contents from the [Tableau link](https://github.com/brnhaze/capstone/tree/main/Tableau) including images and direct to "Story" sheet
 
 - [Link](https://github.com/brnhaze/capstone) 
-
-### Quality Assurance (QA)
-
-- Title:
-  
-- Description
-  
-- Technologies Used:
-
-- Key Contributions
-
-- Link:
-  
-- Files: 
-  - [Excel Uncleaned](https://github.com/brnhaze/QA/blob/main/Data/Uncleaned/Disney_movies.csv)
-  - [Excel Cleaned](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/Excel/Cleaning_Excel.md)
 
 ## About Me
 
 I have completed the Data Analytics Digital Diploma Program at Lighthouse Labs. I have honed my skills in collecting, processing, and analyzing data to extract insights and inform strategic business decisions. My proficiencies include data visualization tools such as Tableau and Power BI, as well as program languages like Python and R for data manipulation and statistical analysis.
 
-  A brief overview of the skills and qualities I possess are as follows:
-  - Data Visualization & Dashboards (Tableau, Data Connectivity, Data Preparation, Storytelling with Data Design Principles)
-  - Code Fundamentals (Cleaning, Python & Statistical Modelling, Frameworks & Libraries, GIT, CLI, and APIs)
-  - Data Soft Skills (Communication & Presentation for Technical and Non-Technical Audiences, and Teamwork)
-  - Data Analysis (Extract, Transform, Load – ELT Process), PostgreSQL, Data Manipulation, QA Processes, Data Ethics and Access, Pandas, NumPy)
+A brief overview of the skills and qualities I possess are as follows:
+- Data Visualization & Dashboards (Tableau, Data Connectivity, Data Preparation, Storytelling with Data Design Principles)
+- Code Fundamentals (Cleaning, Python & Statistical Modelling, Frameworks & Libraries, GIT, CLI, and APIs)
+- Data Soft Skills (Communication & Presentation for Technical and Non-Technical Audiences, and Teamwork)
+- Data Analysis (Extract, Transform, Load – ELT Process), PostgreSQL, Data Manipulation, QA Processes, Data Ethics and Access, Pandas, NumPy)
 
-  Currently, working as a Systems Specialist in Operations at Vancouver City Savings Credit Union since May 2022. Monitoring systems through various dashboards & system events or alerts. My position entails monitoring and triggering workflows and using SIEM products such as Splunk.
+Currently, working as a Systems Specialist in Operations at Vancouver City Savings Credit Union since May 2022. Monitoring systems through various dashboards & system events or alerts. My position entails monitoring and triggering workflows and using SIEM products such as Splunk.
 
-  Previously, graduated from British Columbia Institute of Technology (BCIT), completing Computer Information Systems Administration (CISA) Diploma program. I attained Information Technology infrastructure (IT) solution skills for computer administration and networking. The program compromises of theory, installation, configuration, maintenance, monitoring, and troubleshooting hardware and systems. I have taken finance, marketing, academic research, economic, and law courses.
+Previously, graduated from British Columbia Institute of Technology (BCIT), completing Computer Information Systems Administration (CISA) Diploma program. I attained Information Technology infrastructure (IT) solution skills for computer administration and networking. The program compromises of theory, installation, configuration, maintenance, monitoring, and troubleshooting hardware and systems. I have taken finance, marketing, academic research, economic, and law courses.
 
 ## Education & Certifications
 
