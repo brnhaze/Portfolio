@@ -67,4 +67,5 @@ I have completed the Data Analytics Digital Diploma Program at Lighthouse Labs. 
 ## Contact Information
 
   [Email: ashwin_pal@hotmail.com](mailto:ashwin_pal@hotmail.com)
+  
   [LinkedIn](https://www.linkedin.com/in/ashwin-4609332a/)
