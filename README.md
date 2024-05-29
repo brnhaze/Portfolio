@@ -9,7 +9,7 @@ Welcome to my data analytics portfolio! This repository contains a collection of
   
 - Description:
 
-<center> Explore whether certain player positions tend to receive more penalties than others. Analyzing the distribution of penalties based on player positions to identify any patterns or tendencies. </center>
+  Explore whether certain player positions tend to receive more penalties than others. Analyzing the distribution of penalties based on player positions to identify any patterns or tendencies.
   
 - Technologies Used:
   - Kaggle
