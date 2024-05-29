@@ -16,8 +16,6 @@ Welcome to my data analytics portfolio! This repository contains a collection of
   - Python
   - Tableau
 
-- Link: [QA](https://github.com/brnhaze/QA)
-  
 - Files: 
   - [Walkthrough file](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/SQL/sql.md)
   - Excel
