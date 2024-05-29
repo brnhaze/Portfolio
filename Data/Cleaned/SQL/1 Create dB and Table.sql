@@ -1,3 +1,4 @@
+-- Create Table
 CREATE TABLE movies (
     id SERIAL PRIMARY KEY,
     movie_name VARCHAR,
