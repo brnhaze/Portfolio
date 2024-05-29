@@ -4,6 +4,12 @@ Welcome to my data analytics portfolio! This repository contains a collection of
 
 ## Table of Contents
 [About](#AboutMe)
+[Projects](#Projectss)
+  [Disney Movies](#DisneyMovies)
+  [Capstone Project](#CapstoneProject)
+[Education & Certifications](#Education&Certifications)
+[Cover Letter & Resume](#Resume&CoverLetter)
+[Contact Information](#ContactInformation)
 
 ## About Me
 
@@ -83,7 +89,7 @@ Previously, graduated from British Columbia Institute of Technology (BCIT), comp
 
   [Law Enforcement Studies Diploma, JIBC](https://drive.google.com/file/d/1_-KxEw3X4hKcqmvhLuSRbENABqgnv3M4/view?usp=sharing)
 
-## Resume and Cover Letter
+## Resume & Cover Letter
 
 [Cover Letter](https://drive.google.com/file/d/1YlGPe-iRb_jydOAU2kY4kRTYwUdlUhY4/view?usp=sharing)
 
