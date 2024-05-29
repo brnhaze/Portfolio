@@ -2,6 +2,9 @@
 
 Welcome to my data analytics portfolio! This repository contains a collection of projects, analyses, and code snippets that demonstrate my skills and experience in the field of data analytics. Feel free to explore the projects listed below.
 
+## Table of Contents
+[About](#About Me)
+
 ## About Me
 
 I have completed the Data Analytics Digital Diploma Program at Lighthouse Labs. I have honed my skills in collecting, processing, and analyzing data to extract insights and inform strategic business decisions. My proficiencies include data visualization tools such as Tableau and Power BI, as well as program languages like Python and R for data manipulation and statistical analysis.
@@ -60,7 +63,7 @@ Previously, graduated from British Columbia Institute of Technology (BCIT), comp
   
 - [Taleau Visualization Link](https://public.tableau.com/app/profile/ashwin.pal3698/viz/NFLPenaltyAnalysis/Story)
 
-- [Github Link](https://github.com/brnhaze/capstone) 
+- [Repository Link](https://github.com/brnhaze/capstone) 
 
 - Technologies Used:
   - Kaggle
