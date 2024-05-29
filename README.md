@@ -54,7 +54,7 @@ Previously, graduated from British Columbia Institute of Technology (BCIT), comp
     - [Profiling, validation, and cleansing 2 (sql)](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/SQL/4%20Quality%20Assurance%202.sql)
     - [Currency User Defined Function (sql)](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/SQL/5%20Quality%20Assurance%203.sql)
     - [Profiling, validation, and cleansing 3 (sql)](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/SQL/6%20Quality%20Assurance%204.sql)
-  - Pythong
+  - Python
     - [Walkthrough](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/Python/walkthrough.md)
 
 ### Capstone
