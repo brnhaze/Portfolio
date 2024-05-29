@@ -17,7 +17,8 @@ Welcome to my data analytics portfolio! This repository contains a collection of
   - PostgreSQL
   - Python (Jupyter Labs)
   - [Tableau](https://github.com/brnhaze/capstone/tree/main/Tableau)
-    - Please download all contents including images and direct to "Story" sheet
+  
+    Please download all contents including images and direct to "Story" sheet
 
 - Key Contributions
 
@@ -41,25 +42,29 @@ Welcome to my data analytics portfolio! This repository contains a collection of
 
 ## About Me
 
-xxx
+I have completed the Data Analytics Digital Diploma Program at Lighthouse Labs. I have honed my skills in collecting, processing, and analyzing data to extract insights and inform strategic business decisions. My proficiencies include data visualization tools such as Tableau and Power BI, as well as program languages like Python and R for data manipulation and statistical analysis.
 
-# Skills
+  A brief overview of the skills and qualities I possess are as follows:
+  - Data Visualization & Dashboards (Tableau, Data Connectivity, Data Preparation, Storytelling with Data Design Principles)
+  - Code Fundamentals (Cleaning, Python & Statistical Modelling, Frameworks & Libraries, GIT, CLI, and APIs)
+  - Data Soft Skills (Communication & Presentation for Technical and Non-Technical Audiences, and Teamwork)
+  - Data Analysis (Extract, Transform, Load – ELT Process), PostgreSQL, Data Manipulation, QA Processes, Data Ethics and Access, Pandas, NumPy)
 
-xx
+  Currently, working as a Systems Specialist in Operations at Vancouver City Savings Credit Union since May 2022. Monitoring systems through various dashboards & system events or alerts. My position entails monitoring and triggering workflows and using SIEM products such as Splunk.
 
-## Education
+  Previously, graduated from British Columbia Institute of Technology (BCIT), completing Computer Information Systems Administration (CISA) Diploma program. I attained Information Technology infrastructure (IT) solution skills for computer administration and networking. The program compromises of theory, installation, configuration, maintenance, monitoring, and troubleshooting hardware and systems. I have taken finance, marketing, academic research, economic, and law courses.
 
-dd
+## Education & Certifications
 
-## Experience
+  [Data Analytics Diploma, Lighthouse Labs](https://drive.google.com/file/d/1qZi7_tKmb5kzElikBvMGAhvracI2biPU/view)
 
-dd
+  [Google Cybersecurity Certificate, Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/8LYTW9YMBCWP)
+
+  [Computer Information Systems Administration, BCIT](https://drive.google.com/file/d/1nBbuoL2uJSxZW7VFi127-Ve5jHlG9nW1/view?usp=sharing)
+
+  [Law Enforcement Studies Diploma, JIBC](https://drive.google.com/file/d/1_-KxEw3X4hKcqmvhLuSRbENABqgnv3M4/view?usp=sharing)
 
 ## Contact Information
 
-Email: ashwin_pal@hotmail.com
-LinkedIn: 
-
-Certifications:
-
-d
+  [Email: ashwin_pal@hotmail.com](mailto:ashwin_pal@hotmail.com)
+  [LinkedIn](https://www.linkedin.com/in/ashwin-4609332a/)
