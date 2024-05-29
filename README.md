@@ -3,13 +3,13 @@
 Welcome to my data analytics portfolio! This repository contains a collection of projects, analyses, and code snippets that demonstrate my skills and experience in the field of data analytics. Feel free to explore the projects listed below.
 
 ## Table of Contents
-- [About](#AboutMe)
-- [Projects](#Projectss)
-  - [Disney Movies](#DisneyMovies)
-  - [Capstone Project](#CapstoneProject)
-- [Education & Certifications](#Education&Certifications)
-- [Cover Letter & Resume](#Resume&CoverLetter)
-- [Contact Information](#ContactInformation)
+- [About](#About Me)
+- [Projects](#Projects)
+  - [Disney Movies](#Disney Movies)
+  - [Capstone Project](#Capstone Project)
+- [Education & Certifications](#Education & Certifications)
+- [Cover Letter & Resume](#Resume & Cover Letter)
+- [Contact Information](#Contact Information)
 
 ## About Me
 
