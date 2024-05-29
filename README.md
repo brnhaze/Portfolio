@@ -5,7 +5,7 @@ Welcome to my data analytics portfolio! This repository contains a collection of
 ## Table of Contents
 - [About](#About Me)
 - [Projects](#Projects)
-  - [Disney Movies](#Disney Movies)
+  - [Disney Movies](#DisneyMovies)
   - [Capstone Project](#Capstone Project)
 - [Education & Certifications](#Education & Certifications)
 - [Cover Letter & Resume](#Resume & Cover Letter)
