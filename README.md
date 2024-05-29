@@ -28,6 +28,8 @@ Welcome to my data analytics portfolio! This repository contains a collection of
     - [Profiling, validation, and cleansing 2](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/SQL/4%20Quality%20Assurance%202.sql)
     - [Currency User Defined Function](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/SQL/5%20Quality%20Assurance%203.sql)
     - [Profiling, validation, and cleansing 3](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/SQL/6%20Quality%20Assurance%204.sql)
+  - Pythong
+    - ddd 
 
 ## Projects
 ### Capstone Project
