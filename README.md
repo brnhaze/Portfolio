@@ -3,7 +3,7 @@
 Welcome to my data analytics portfolio! This repository contains a collection of projects, analyses, and code snippets that demonstrate my skills and experience in the field of data analytics. Feel free to explore the projects listed below.
 
 ## Table of Contents
-[About](#About Me)
+[About](#AboutMe)
 
 ## About Me
 
