@@ -30,7 +30,7 @@ Welcome to my data analytics portfolio! This repository contains a collection of
     - [Currency User Defined Function](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/SQL/5%20Quality%20Assurance%203.sql)
     - [Profiling, validation, and cleansing 3](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/SQL/6%20Quality%20Assurance%204.sql)
   - Pythong
-    - [Walkthrough]()
+    - [Walkthrough](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/Python/walkthrough.md}
 
 ## Projects
 ### Capstone Project
