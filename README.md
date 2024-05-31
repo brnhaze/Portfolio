@@ -55,7 +55,7 @@ Previously, graduated from British Columbia Institute of Technology (BCIT), comp
     - [Currency User Defined Function (sql)](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/SQL/5%20Quality%20Assurance%203.sql)
     - [Profiling, validation, and cleansing 3 (sql)](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/SQL/6%20Quality%20Assurance%204.sql)
   - Python
-    - [Data Collection & Collection](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/Python/1%20import_and_duplicates_columns.ipynb)
+    - [Data Collection & Inspection](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/Python/1%20import_and_duplicates_columns.ipynb)
     - [Data Cleaning, Transforming, and Validating](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/Python/2%20quality%20assurance.ipynb)
     - [Analysis & Statistics](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/Python/3%20visualization%20and%20statistics.ipynb)
 
