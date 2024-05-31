@@ -93,9 +93,9 @@ Previously, graduated from British Columbia Institute of Technology (BCIT), comp
 
 ## Resume
 
-[Cover Letter](https://drive.google.com/file/d/1NmcaSIzr_wlsdbd2PySGHI_aRxT8uLro/view?usp=drive_link)
+[Cover Letter](https://drive.google.com/file/d/17Ep3T3Tyc9buxxoi-2oqE19fNRXZDOYe/view?usp=drive_link)
 
-[Resume](https://drive.google.com/file/d/1JI47KWNqhv43RpAUOngfLRh77f4z3mNF/view?usp=drive_link)
+[Resume](https://drive.google.com/file/d/1qH_f-gV7jZJ6EJVaKLVLqviWFP2aoj54/view?usp=drive_link)
 
 ## Contact
 
