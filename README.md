@@ -45,21 +45,21 @@ I have taken finance, marketing, academic research, economic, and obtained a Dip
 
 - Files: 
   - Excel
-    - [Walkthrough](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/Excel/Cleaning_Excel.md)
-    - [Excel Uncleaned (csv)](https://github.com/brnhaze/QA/blob/main/Data/Uncleaned/Disney_movies.csv)
-    - [Excel Cleaned (csv)](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/Excel/Disney_movies.csv)
+    - [Walkthrough](https://github.com/brnhaze/Portfolio/blob/main/Disney_Movies/Cleaned/Excel/Cleaning_Excel.md)
+    - [Excel Uncleaned (csv)](https://github.com/brnhaze/Portfolio/blob/main/Disney_Movies/Uncleaned/Disney_movies.csv)
+    - [Excel Cleaned (csv)](https://github.com/brnhaze/Portfolio/blob/main/Disney_Movies/Cleaned/Excel/Disney_movies.csv)
   - SQL
-    - [Walkthrough](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/SQL/sql.md)
-    - [Create Database Tables (sql)](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/SQL/1%20Create%20dB%20and%20Table.sql)
-    - [Upload Files (sql)](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/SQL/2%20Upload%20FIle.sql)
-    - [Profiling, validation, and cleansing 1 (sq)](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/SQL/3%20Quality%20Assurance.sql)
-    - [Profiling, validation, and cleansing 2 (sql)](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/SQL/4%20Quality%20Assurance%202.sql)
-    - [Currency User Defined Function (sql)](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/SQL/5%20Quality%20Assurance%203.sql)
-    - [Profiling, validation, and cleansing 3 (sql)](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/SQL/6%20Quality%20Assurance%204.sql)
+    - [Walkthrough](https://github.com/brnhaze/Portfolio/blob/main/Disney_Movies/Cleaned/SQL/sql.md)
+    - [Create Database Tables (sql)](https://github.com/brnhaze/Portfolio/blob/main/Disney_Movies/Cleaned/SQL/1%20Create%20dB%20and%20Table.sql)
+    - [Upload Files (sql)](https://github.com/brnhaze/Portfolio/blob/main/Disney_Movies/Cleaned/SQL/2%20Upload%20FIle.sql)
+    - [Profiling, validation, and cleansing 1 (sq)](https://github.com/brnhaze/Portfolio/blob/main/Disney_Movies/Cleaned/SQL/3%20Quality%20Assurance.sql)
+    - [Profiling, validation, and cleansing 2 (sql)](https://github.com/brnhaze/Portfolio/blob/main/Disney_Movies/Cleaned/SQL/4%20Quality%20Assurance%202.sql)
+    - [Currency User Defined Function (sql)](https://github.com/brnhaze/Portfolio/blob/main/Disney_Movies/Cleaned/SQL/5%20Quality%20Assurance%203.sql)
+    - [Profiling, validation, and cleansing 3 (sql)]([https://github.com/brnhaze/QA/blob/main/Data/Cleaned/SQL/6%20Quality%20Assurance%204.sql](https://github.com/brnhaze/Portfolio/blob/main/Disney_Movies/Cleaned/SQL/6%20Quality%20Assurance%204.sql))
   - Python
-    - [Data Collection & Inspection](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/Python/1%20import_and_duplicates_columns.ipynb)
-    - [Data Cleaning, Transforming, and Validating](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/Python/2%20quality%20assurance.ipynb)
-    - [Analysis & Statistics](https://github.com/brnhaze/QA/blob/main/Data/Cleaned/Python/3%20visualization%20and%20statistics.ipynb)
+    - [Data Collection & Inspection](https://github.com/brnhaze/Portfolio/blob/main/Disney_Movies/Cleaned/Python/1%20import_and_duplicates_columns.ipynb)
+    - [Data Cleaning, Transforming, and Validating](https://github.com/brnhaze/Portfolio/blob/main/Disney_Movies/Cleaned/Python/2%20quality%20assurance.ipynb)
+    - [Analysis & Statistics](https://github.com/brnhaze/Portfolio/blob/main/Disney_Movies/Cleaned/Python/3%20visualization%20and%20statistics.ipynb)
 
 ### Capstone
 
