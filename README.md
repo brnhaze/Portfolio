@@ -23,7 +23,9 @@ A brief overview of the skills and qualities I possess are as follows:
 
 Currently, working as a Systems Specialist in Operations at Vancouver City Savings Credit Union since May 2022. Monitoring systems through various dashboards & system events or alerts. My position entails monitoring and triggering workflows and using SIEM products such as Splunk.
 
-Previously, graduated from British Columbia Institute of Technology (BCIT), completing Computer Information Systems Administration (CISA) Diploma program. I attained Information Technology infrastructure (IT) solution skills for computer administration and networking. The program compromises of theory, installation, configuration, maintenance, monitoring, and troubleshooting hardware and systems. I have taken finance, marketing, academic research, economic, and law courses.
+Previously, graduated from British Columbia Institute of Technology (BCIT), completing Computer Information Systems Administration (CISA) Diploma program. I attained Information Technology infrastructure (IT) solution skills for computer administration and networking. The program compromises of theory, installation, configuration, maintenance, monitoring, and troubleshooting hardware and systems.
+
+I have taken finance, marketing, academic research, economic, and obtained a Diploma in Law Enforcement Studies.
 
 ## Projects
 
