@@ -35,7 +35,7 @@ I have taken finance, marketing, academic research, economic, and obtained a Dip
   
 - Description:
 
-  I have created this repository for the purpose of showcasing my data profiling, data validation, and data cleansing; and quality assurance processes using Excel, Pythong, SQL, and Tableau.
+  I have created this repository for the purpose of showcasing my data profiling, data validation, and data cleansing; and quality assurance processes using Excel, Pythong, and SQL.
   
 - Technologies Used:
   - Excel
