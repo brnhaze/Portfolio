@@ -55,7 +55,7 @@ I have taken finance, marketing, academic research, economic, and obtained a Dip
     - [Profiling, validation, and cleansing 1 (sq)](https://github.com/brnhaze/Portfolio/blob/main/Disney_Movies/Cleaned/SQL/3%20Quality%20Assurance.sql)
     - [Profiling, validation, and cleansing 2 (sql)](https://github.com/brnhaze/Portfolio/blob/main/Disney_Movies/Cleaned/SQL/4%20Quality%20Assurance%202.sql)
     - [Currency User Defined Function (sql)](https://github.com/brnhaze/Portfolio/blob/main/Disney_Movies/Cleaned/SQL/5%20Quality%20Assurance%203.sql)
-    - [Profiling, validation, and cleansing 3 (sql)]([https://github.com/brnhaze/QA/blob/main/Data/Cleaned/SQL/6%20Quality%20Assurance%204.sql](https://github.com/brnhaze/Portfolio/blob/main/Disney_Movies/Cleaned/SQL/6%20Quality%20Assurance%204.sql))
+    - [Profiling, validation, and cleansing 3 (sql)](https://github.com/brnhaze/Portfolio/blob/main/Disney_Movies/Cleaned/SQL/6%20Quality%20Assurance%204.sql)
   - Python
     - [Data Collection & Inspection](https://github.com/brnhaze/Portfolio/blob/main/Disney_Movies/Cleaned/Python/1%20import_and_duplicates_columns.ipynb)
     - [Data Cleaning, Transforming, and Validating](https://github.com/brnhaze/Portfolio/blob/main/Disney_Movies/Cleaned/Python/2%20quality%20assurance.ipynb)
