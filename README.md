@@ -60,6 +60,7 @@ I have taken finance, marketing, academic research, economic, and obtained a Dip
     - [Data Collection & Inspection](https://github.com/brnhaze/Portfolio/blob/main/Disney_Movies/Cleaned/Python/1%20import_and_duplicates_columns.ipynb)
     - [Data Cleaning, Transforming, and Validating](https://github.com/brnhaze/Portfolio/blob/main/Disney_Movies/Cleaned/Python/2%20quality%20assurance.ipynb)
     - [Analysis & Statistics](https://github.com/brnhaze/Portfolio/blob/main/Disney_Movies/Cleaned/Python/3%20visualization%20and%20statistics.ipynb)
+    - [Cleaned .csv File](https://github.com/brnhaze/Portfolio/blob/main/Disney_Movies/Cleaned/Python/df_4.csv)
 
 ### Capstone
 
