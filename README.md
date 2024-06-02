@@ -74,6 +74,7 @@ I have taken finance, marketing, academic research, economic, and obtained a Dip
   
 - [Taleau Visualization Link](https://public.tableau.com/app/profile/ashwin.pal3698/viz/NFLPenaltyAnalysis/Story)
 
+- [Read Me](https://github.com/brnhaze/capstone/blob/main/README.md)
 - [Repository Link](https://github.com/brnhaze/capstone) 
 
 - Technologies Used:
