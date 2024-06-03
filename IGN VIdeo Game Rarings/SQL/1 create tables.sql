@@ -2,7 +2,7 @@
 
 CREATE TABLE games (
 	title CHARACTER VARYING,
-	score INT,
+	score FLOAT,
 	score_phrase CHARACTER VARYING,
 	platform CHARACTER VARYING,
 	genre TEXT,

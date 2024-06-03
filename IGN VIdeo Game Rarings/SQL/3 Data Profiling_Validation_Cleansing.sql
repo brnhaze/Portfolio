@@ -1,4 +1,4 @@
------------------------------------------------------------- Data Profiling ----------------------------------------------
+------------------------------------------------------------ Data Profiling, Validation, Cleansing ----------------------------------------------
 SELECT * FROM games
 -- title, score, score_phrase, platform, genre, release_year, release_month, release_day
 
@@ -41,12 +41,11 @@ SELECT * FROM games
 	
 	SELECT COUNT(genre) FROM games -- 18589
 	SELECT genre, COUNT(genre) FROM games GROUP BY genre
-	SELECT genre, COUNT(genre) FROM games GROUP BY genre HAVING COUNT(genre) > 1
-	
+	SELECT genre, COUNT(genre) FROM games GROUP BY genre HAVING COUNT(genre) > 1 -- Duplicate Values
 	
 	SELECT COUNT(title) FROM games -- 18625
 	SELECT title, COUNT(title) FROM games GROUP BY title
-	SELECT title, COUNT(title) FROM games GROUP BY title HAVING COUNT(title) > 1
+	SELECT title, COUNT(title) FROM games GROUP BY title HAVING COUNT(title) > 1 -- Duplicate Values
 	SELECT * FROM games WHERE title = 'Fallout 4'
 	
 -- Check Data Distribution (Min/Max, Str Len)
@@ -98,4 +97,15 @@ SELECT * FROM games
 	
 -- Summary Queries
 	SELECT score, COUNT(*), AVG(score), STDDEV(score) FROM games GROUP BY score
+
+-- Missing/Incorrect Data
+
+	SELECT score FROM games WHERE score::TEXT !~ '[0-9]'
 	
+	SELECT release_year FROM games WHERE release_year::TEXT !~ '^\d{4}$'
+	
+	SELECT release_month FROM games WHERE release_month::TEXT !~ '^\d{1,2}$'
+	
+	SELECT release_day FROM games WHERE release_day::TEXT !~ '^\d{1,2}$'
+
+-- title, score, score_phrase, platform, genre, release_year, release_month, release_day
