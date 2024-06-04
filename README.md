@@ -52,6 +52,7 @@ I have taken finance, marketing, academic research, economic, and obtained a Dip
   - Python
     - [Data Profiling](https://github.com/brnhaze/Portfolio/blob/main/IGN%20VIdeo%20Game%20Rarings/Python/1%20Data%20Profiling.ipynb)
     - [Data Validation](https://github.com/brnhaze/Portfolio/blob/main/IGN%20VIdeo%20Game%20Rarings/Python/2%20Data%20Validation.ipynb)
+    - [Data Cleansing](https://github.com/brnhaze/Portfolio/blob/main/IGN%20VIdeo%20Game%20Rarings/Python/3%20Data%20Cleansing.ipynb)
   - Tableau
 
 ### Disney-Movies
