@@ -48,7 +48,7 @@ I have taken finance, marketing, academic research, economic, and obtained a Dip
     - [Import File](https://github.com/brnhaze/Portfolio/blob/main/IGN%20VIdeo%20Game%20Rarings/SQL/2%20Import%20Files.sql)
     - [Data Profiling, Validation, & Cleansing](https://github.com/brnhaze/Portfolio/blob/main/IGN%20VIdeo%20Game%20Rarings/SQL/3%20Data%20Profiling_Validation_Cleansing.sql)
     - [Export File](https://github.com/brnhaze/Portfolio/blob/main/IGN%20VIdeo%20Game%20Rarings/SQL/4%20export%20file.sql)
-    - [Cleaned File(csv)](https://github.com/brnhaze/Portfolio/blob/main/IGN%20VIdeo%20Game%20Rarings/SQL/sql_cleaned_games.csv)
+    - [Cleaned File (csv)](https://github.com/brnhaze/Portfolio/blob/main/IGN%20VIdeo%20Game%20Rarings/SQL/sql_cleaned_games.csv)
   - Python
     - [Data Profiling](https://github.com/brnhaze/Portfolio/blob/main/IGN%20VIdeo%20Game%20Rarings/Python/1%20Data%20Profiling.ipynb)
     - [Data Validation](https://github.com/brnhaze/Portfolio/blob/main/IGN%20VIdeo%20Game%20Rarings/Python/2%20Data%20Validation.ipynb)
