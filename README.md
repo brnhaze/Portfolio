@@ -7,6 +7,7 @@ Welcome to my data analytics portfolio! This repository contains a collection of
 - [Projects](#Projects)
   - [Disney Movies](#Disney-Movies)
   - [Capstone Project](#Capstone)
+  - [IGN Video Game Ratings](#IGN_Video_Game_Ratings)
 - [Education & Certifications](#Education)
 - [Cover Letter & Resume](#Resume)
 - [Contact Information](#Contact)
@@ -28,6 +29,30 @@ Previously, graduated from British Columbia Institute of Technology (BCIT), comp
 I have taken finance, marketing, academic research, economic, and obtained a Diploma in Law Enforcement Studies.
 
 ## Projects
+
+### IGN_Video_Game_Ratings
+
+- Description:
+
+- Technologies Used:
+  - SQL
+  - Python
+  - Tableau
+
+- [Visualization]()
+
+- Files
+  - SQL
+    - [Original File (csv)](https://github.com/brnhaze/Portfolio/blob/main/IGN%20VIdeo%20Game%20Rarings/Original%20File/game_ratings.csv)
+    - [Create Table](https://github.com/brnhaze/Portfolio/blob/main/IGN%20VIdeo%20Game%20Rarings/SQL/1%20create%20tables.sql)
+    - [Import File](https://github.com/brnhaze/Portfolio/blob/main/IGN%20VIdeo%20Game%20Rarings/SQL/2%20Import%20Files.sql)
+    - [Data Profiling, Validation, & Cleansing](https://github.com/brnhaze/Portfolio/blob/main/IGN%20VIdeo%20Game%20Rarings/SQL/3%20Data%20Profiling_Validation_Cleansing.sql)
+    - [Export File](https://github.com/brnhaze/Portfolio/blob/main/IGN%20VIdeo%20Game%20Rarings/SQL/4%20export%20file.sql)
+    - [Cleaned File(csv)](https://github.com/brnhaze/Portfolio/blob/main/IGN%20VIdeo%20Game%20Rarings/SQL/sql_cleaned_games.csv)
+  - Python
+    - [Data Profiling](https://github.com/brnhaze/Portfolio/blob/main/IGN%20VIdeo%20Game%20Rarings/Python/1%20Data%20Profiling.ipynb)
+    - [Data Validation](https://github.com/brnhaze/Portfolio/blob/main/IGN%20VIdeo%20Game%20Rarings/Python/2%20Data%20Validation.ipynb)
+  - Tableau
 
 ### Disney-Movies
 
