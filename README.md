@@ -5,9 +5,9 @@ Welcome to my data analytics portfolio! This repository contains a collection of
 ## Table of Contents
 - [About](#About-Me)
 - [Projects](#Projects)
+  - [IGN Video Game Ratings](#IGN_Video_Game_Ratings)
   - [Disney Movies](#Disney-Movies)
   - [Capstone Project](#Capstone)
-  - [IGN Video Game Ratings](#IGN_Video_Game_Ratings)
 - [Education & Certifications](#Education)
 - [Cover Letter & Resume](#Resume)
 - [Contact Information](#Contact)
