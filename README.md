@@ -58,7 +58,7 @@ I have taken finance, marketing, academic research, economic, and obtained a Dip
     - Exploratory Data Analysis (EDA)
       - [Data Visualization](https://github.com/brnhaze/Portfolio/blob/main/IGN%20VIdeo%20Game%20Rarings/Python/4%20EDA%20%26%20Data%20Visualization.ipynb)
       - [Machine Learning Algorithm (MLA)](https://github.com/brnhaze/Portfolio/blob/main/IGN%20VIdeo%20Game%20Rarings/Python/5%20EDA%20%26%20MLA.ipynb)
-  - Tableau
+  - [Tableau Book](https://github.com/brnhaze/Portfolio/blob/main/IGN%20VIdeo%20Game%20Rarings/Tableau/Book1.twb)
 
 ### Disney-Movies
 
