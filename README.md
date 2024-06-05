@@ -34,6 +34,8 @@ I have taken finance, marketing, academic research, economic, and obtained a Dip
 
 - Description:
 
+  The "IGN Video Game Ratings" project aims to analyze and visualize video game ratings data sourced from IGN (Imagine Games Network), a prominent video game and entertainment media website. The dataset contains information on various aspects of video games, including titles, scores, score phrases, platforms, genres, and release dates
+
 - Technologies Used:
   - SQL
   - Python
