@@ -45,7 +45,7 @@ I have taken finance, marketing, academic research, economic, and obtained a Dip
 
 <p align="center">
   <a href="https://github.com/brnhaze/Portfolio/blob/main/IGN%20VIdeo%20Game%20Rarings/Images/ign_video_game_ratings.jpg">
-    <img src="URL_OF_YOUR_IMAGE" alt="ALT_TEXT">
+    <img src="logo" alt="ALT_TEXT">
   </a>
 </p>
 
