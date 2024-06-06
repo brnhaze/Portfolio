@@ -41,7 +41,7 @@ I have taken finance, marketing, academic research, economic, and obtained a Dip
   - Python
   - Tableau
 
-- [Visualization]()
+- [Visualization](https://public.tableau.com/app/profile/ashwin.pal3698/viz/IGNVideoGameRatings/Dashboard1)
 
 - Files
   - SQL
