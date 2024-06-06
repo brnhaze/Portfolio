@@ -113,10 +113,9 @@ I have taken finance, marketing, academic research, economic, and obtained a Dip
 
 <p align="center">
   <a href="https://public.tableau.com/app/profile/ashwin.pal3698/viz/NFLPenaltyAnalysis/Story">
-    <img src="https://github.com/brnhaze/capstone/blob/main/images/nfl_analysis.jpg" alt="IGN Video Game Ratings">
+    <img src="https://github.com/brnhaze/capstone/blob/main/images/nfl_analysis.jpg" alt="IGN Video Game Ratings" width="400">
   </a>
 </p>
-
 
 - [Read Me](https://github.com/brnhaze/capstone/blob/main/README.md)
 - [Repository Link](https://github.com/brnhaze/capstone) 
