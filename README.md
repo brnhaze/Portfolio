@@ -45,7 +45,7 @@ I have taken finance, marketing, academic research, economic, and obtained a Dip
 
 <p align="center">
   <a href="https://public.tableau.com/app/profile/ashwin.pal3698/viz/IGNVideoGameRatings/Dashboard1">
-    <img src="https://github.com/brnhaze/Portfolio/blob/main/IGN%20VIdeo%20Game%20Rarings/Images/ign_video_game_ratings.jpg" alt="IGN Video Game Rating" width="300">
+    <img src="https://github.com/brnhaze/Portfolio/blob/main/IGN%20VIdeo%20Game%20Rarings/Images/ign_video_game_ratings.jpg" alt="IGN Video Game Rating" width="350">
   </a>
 </p>
 
