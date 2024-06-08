@@ -8,6 +8,7 @@ Welcome to my data analytics portfolio! This repository contains a collection of
   - [IGN Video Game Ratings](#IGN_Video_Game_Ratings)
   - [Disney Movies](#Disney-Movies)
   - [Capstone Project](#Capstone)
+  - [Excel Functions](#Excel_Functions)
 - [Education & Certifications](#Education)
 - [Cover Letter & Resume](#Resume)
 - [Contact Information](#Contact)
@@ -127,6 +128,14 @@ I have taken finance, marketing, academic research, economic, and obtained a Dip
   - Python (Jupyter Labs)
   - [Tableau](https://github.com/brnhaze/capstone/tree/main/Tableau)
 
+### Excel_Functions
+- Description:
+
+  Excel Functions" is a curated compilation showcasing my proficiency in leveraging Excel's vast array of functions to streamline data management and analysis
+
+- Files:
+  - [Walkthrough](https://github.com/brnhaze/Portfolio/blob/main/Excel/walkthrough.md)
+  - [(.xlsx file)](https://github.com/brnhaze/Portfolio/blob/main/Excel/Charts.xlsx)
 
 ## Education
 
