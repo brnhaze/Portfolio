@@ -138,8 +138,8 @@ I have taken finance, marketing, academic research, economic, and obtained a Dip
 
 ### Excel_Functions
 
-<div style="text-align: center;">
-    <img src="https://github.com/brnhaze/Portfolio/blob/main/Excel/excel_log.jpg" alt="Example Image" />
+<div align="center">
+    <img src="https://github.com/brnhaze/Portfolio/blob/main/Excel/excel_log.jpg" alt="logo">
 </div>
 
 - Description:
