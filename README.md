@@ -144,7 +144,7 @@ I have taken finance, marketing, academic research, economic, and obtained a Dip
 
 - Description:
 
-  Excel Functions" is a curated compilation showcasing my proficiency in leveraging Excel's vast array of functions to streamline data management and analysis
+  Excel Functions is a curated compilation showcasing my proficiency in leveraging Excel's vast array of functions to streamline data management and analysis
 
 - Files:
   - [Walkthrough](https://github.com/brnhaze/Portfolio/blob/main/Excel/walkthrough.md)
