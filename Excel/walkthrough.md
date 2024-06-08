@@ -1,5 +1,9 @@
 # Excel Functions
 
+## Table of Contents
+[Central Dispersion](#Central Tendency)
+
+
 Note: Please [download](https://github.com/brnhaze/Portfolio/blob/main/Excel/Charts.xlsx) excel file for details.
 
 The file contains:
