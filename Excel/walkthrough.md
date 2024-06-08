@@ -46,7 +46,7 @@ The file contains:
     <img src="https://github.com/brnhaze/Portfolio/blob/main/Excel/3%20iqr.jpg" alt="Sample Image" style="width:50%;height:auto;">
 </div>
 
-#### Box_&_Whisker
+#### Box_and_Whisker
 
 <div style="text-align:center;">
     <img src="https://github.com/brnhaze/Portfolio/blob/main/Excel/4%20box%20and%20whisker.jpg" alt="Sample Image" style="width:50%;height:auto;">
@@ -58,7 +58,7 @@ The file contains:
     <img src="https://github.com/brnhaze/Portfolio/blob/main/Excel/5%20z%20score.jpg" alt="Sample Image" style="width:50%;height:auto;">
 </div>
 
-#### Rank_&_Percentile
+#### Rank_and_Percentile
 
 <div style="text-align:center;">
     <img src="https://github.com/brnhaze/Portfolio/blob/main/Excel/6%20rank%20and%20percent.jpg" alt="Sample Image" style="width:50%;height:auto;">
