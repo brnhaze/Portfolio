@@ -69,6 +69,10 @@ I have taken finance, marketing, academic research, economic, and obtained a Dip
 
 ### Disney-Movies
 
+<div align="center">
+    <img src="https://github.com/brnhaze/Portfolio/blob/main/Disney_Movies/Cleaned/Images/logo.jpg" alt="logo">
+</div>
+
 - Title: QA
   
 - Description:
