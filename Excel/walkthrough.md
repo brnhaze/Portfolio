@@ -1,9 +1,26 @@
 # Excel Functions
 
 ## Table of Contents
-[Central Tendency](#Central_Tendency)
-[Charts](#Charts)
-
+- [Central Tendency](#Central_Tendency)
+- [Histogram](#Histogram)
+- [Measure of Dispersion](#Measure_of_Dispersion)
+    - [Interquartile Range](
+    - [Box & Whisker](
+    - [Z-Score](
+    - [Rank & Percentile](
+- [Lookup](#Lookup)
+    - [VLookup](#VLookup)
+    - [HLookup](#HLookup)
+- [Pivot Tables](#Pivot_Tables)
+- [Correlation & Regression](#Correlation_&_Regression)
+- [Charts](#Charts)
+    - [Column Chart](#Column_Chart)
+    - [Histogram Chart](Histogram_Chart)
+    - [Stacked Column Chart](#Stacked_Column_Chart)
+    - [Bar Charts with Conditonal Formatting](#Bar_Charts_with_Conditonal_Formatting)
+    - [Dynamic Maps](#Dynamic_Maps)
+    - [Stacked Area](#Stacked_Area)
+    - [Scatter Plots](#Scatter_Plots)
 
 Note: Please [download](https://github.com/brnhaze/Portfolio/blob/main/Excel/Charts.xlsx) excel file for details.
 
@@ -21,9 +38,9 @@ The file contains:
     <img src="https://github.com/brnhaze/Portfolio/blob/main/Excel/2%20histogram.jpg" alt="Sample Image" style="width:50%;height:auto;">
 </div>
 
-### Measure of Dispersion
+### Measure_of_Dispersion
 
-### Interquartile Range
+#### Interquartile Range
 
 <div style="text-align:center;">
     <img src="https://github.com/brnhaze/Portfolio/blob/main/Excel/3%20iqr.jpg" alt="Sample Image" style="width:50%;height:auto;">
@@ -95,13 +112,13 @@ see excel file
     <img src="https://github.com/brnhaze/Portfolio/blob/main/Excel/9%20hlookup.jpg" alt="Sample Image" style="width:50%;height:auto;">
 </div>
 
-### Pivot Tables
+### Pivot_Tables
 
 <div style="text-align:center;">
     <img src="https://github.com/brnhaze/Portfolio/blob/main/Excel/10%20pivot%20table.jpg" alt="Sample Image" style="width:50%;height:auto;">
 </div>
 
-### Correlation & Regression
+### Correlation_&_Regression
 
 See excel file charts > correlation & regression
 
@@ -127,43 +144,43 @@ see excel file
 
 ### Charts
 
-#### Column Chart
+#### Column_Chart
 
 <div style="text-align:center;">
     <img src="https://github.com/brnhaze/Portfolio/blob/main/Excel/12%20column%20chart.jpg" alt="Sample Image" style="width:50%;height:auto;">
 </div>
 
-#### Histogram Chart
+#### Histogram_Chart
 
 <div style="text-align:center;">
     <img src="https://github.com/brnhaze/Portfolio/blob/main/Excel/13%20histogram%20chart.jpg" alt="Sample Image" style="width:50%;height:auto;">
 </div>
 
-#### Stacked Column Chart
+#### Stacked_Column_Chart
 
 <div style="text-align:center;">
     <img src="https://github.com/brnhaze/Portfolio/blob/main/Excel/14%20stacked%20col%20chart.jpg" alt="Sample Image" style="width:50%;height:auto;">
 </div>
 
-#### Bar Charts Conditional Foramt
+#### Bar_Charts_with_Conditonal_Formatting
 
 <div style="text-align:center;">
     <img src="https://github.com/brnhaze/Portfolio/blob/main/Excel/15%20bar%20chart.jpg" alt="Sample Image" style="width:50%;height:auto;">
 </div>
 
-#### Dynamic Maps
+#### Dynamic_Maps
 
 <div style="text-align:center;">
     <img src="https://github.com/brnhaze/Portfolio/blob/main/Excel/16%20dyn%20map.jpg" alt="Sample Image" style="width:50%;height:auto;">
 </div>
 
-#### Stacked Area
+#### Stacked_Area
 
 <div style="text-align:center;">
     <img src="https://github.com/brnhaze/Portfolio/blob/main/Excel/17%20stacked%20area%20chart.jpg" alt="Sample Image" style="width:50%;height:auto;">
 </div>
 
-#### Scatter Plots
+#### Scatter_Plots
 
 <div style="text-align:center;">
     <img src="https://github.com/brnhaze/Portfolio/blob/main/Excel/18%20scat.jpg" alt="Sample Image" style="width:50%;height:auto;">
