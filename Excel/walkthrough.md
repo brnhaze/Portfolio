@@ -2,7 +2,7 @@
 
 ## Table of Contents
 [Central Tendency](##Central_Tendency)
-[ad](###Charts)
+[Charts](###Charts)
 
 
 Note: Please [download](https://github.com/brnhaze/Portfolio/blob/main/Excel/Charts.xlsx) excel file for details.
