@@ -4,10 +4,10 @@
 - [Central Tendency](#Central_Tendency)
 - [Histogram](#Histogram)
 - [Measure of Dispersion](#Measure_of_Dispersion)
-    - [Interquartile Range](
-    - [Box & Whisker](
-    - [Z-Score](
-    - [Rank & Percentile](
+    - [Interquartile Range](#Interquartile_Range)
+    - [Box & Whisker](#Box_&_Whisker)
+    - [Z-Score](#Z-Score)
+    - [Rank & Percentile](#Rank_&_Percentile)
 - [Lookup](#Lookup)
     - [VLookup](#VLookup)
     - [HLookup](#HLookup)
@@ -40,13 +40,13 @@ The file contains:
 
 ### Measure_of_Dispersion
 
-#### Interquartile Range
+#### Interquartile_Range
 
 <div style="text-align:center;">
     <img src="https://github.com/brnhaze/Portfolio/blob/main/Excel/3%20iqr.jpg" alt="Sample Image" style="width:50%;height:auto;">
 </div>
 
-#### Box & Whisker
+#### Box_&_Whisker
 
 <div style="text-align:center;">
     <img src="https://github.com/brnhaze/Portfolio/blob/main/Excel/4%20box%20and%20whisker.jpg" alt="Sample Image" style="width:50%;height:auto;">
@@ -58,7 +58,7 @@ The file contains:
     <img src="https://github.com/brnhaze/Portfolio/blob/main/Excel/5%20z%20score.jpg" alt="Sample Image" style="width:50%;height:auto;">
 </div>
 
-#### Rank & Percentile
+#### Rank_&_Percentile
 
 <div style="text-align:center;">
     <img src="https://github.com/brnhaze/Portfolio/blob/main/Excel/6%20rank%20and%20percent.jpg" alt="Sample Image" style="width:50%;height:auto;">
