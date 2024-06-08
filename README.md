@@ -33,6 +33,10 @@ I have taken finance, marketing, academic research, economic, and obtained a Dip
 
 ### IGN_Video_Game_Ratings
 
+<div align="center">
+    <img src="https://github.com/brnhaze/Portfolio/blob/main/IGN%20VIdeo%20Game%20Rarings/Images/logo.jpg" alt="logo">
+</div>
+
 - Description:
 
   The "IGN Video Game Ratings" project aims to analyze and visualize video game ratings data sourced from IGN (Imagine Games Network), a prominent video game and entertainment media website. The dataset contains information on various aspects of video games, including titles, scores, score phrases, platforms, genres, and release dates
