@@ -15,7 +15,7 @@
 - [Correlation & Regression](#Correlation_and_Regression)
 - [Charts](#Charts)
     - [Column Chart](#Column_Chart)
-    - [Histogram Chart](Histogram_Chart)
+    - [Histogram Chart](#Histogram_Chart)
     - [Stacked Column Chart](#Stacked_Column_Chart)
     - [Bar Charts with Conditonal Formatting](#Bar_Charts_with_Conditonal_Formatting)
     - [Dynamic Maps](#Dynamic_Maps)
