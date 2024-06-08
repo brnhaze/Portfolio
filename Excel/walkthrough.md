@@ -5,14 +5,14 @@
 - [Histogram](#Histogram)
 - [Measure of Dispersion](#Measure_of_Dispersion)
     - [Interquartile Range](#Interquartile_Range)
-    - [Box & Whisker](#Box_&_Whisker)
+    - [Box & Whisker](#Box_and_Whisker)
     - [Z-Score](#Z-Score)
-    - [Rank & Percentile](#Rank_&_Percentile)
+    - [Rank & Percentile](#Rank_and_Percentile)
 - [Lookup](#Lookup)
     - [VLookup](#VLookup)
     - [HLookup](#HLookup)
 - [Pivot Tables](#Pivot_Tables)
-- [Correlation & Regression](#Correlation_&_Regression)
+- [Correlation & Regression](#Correlation_and_Regression)
 - [Charts](#Charts)
     - [Column Chart](#Column_Chart)
     - [Histogram Chart](Histogram_Chart)
@@ -118,7 +118,7 @@ see excel file
     <img src="https://github.com/brnhaze/Portfolio/blob/main/Excel/10%20pivot%20table.jpg" alt="Sample Image" style="width:50%;height:auto;">
 </div>
 
-### Correlation_&_Regression
+### Correlation_and_Regression
 
 See excel file charts > correlation & regression
 
