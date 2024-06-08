@@ -9,8 +9,7 @@ The file contains:
 1 central tendency
 
 <div style="text-align:center;">
-        <img src="https://github.com/brnhaze/Portfolio/blob/main/Excel/1%20central%20tendency.jpg" alt="Sample Image" style="width:50%;height:auto;">
-    </a>
+    <img src="https://github.com/brnhaze/Portfolio/blob/main/Excel/1%20central%20tendency.jpg" alt="Sample Image" style="width:50%;height:auto;">
 </div>
 
 ## Histogram
@@ -18,9 +17,7 @@ The file contains:
 2 histogram
 
 <div style="text-align:center;">
-    <a href="https://www.example.com">
-        <img src="https://www.example.com/image.jpg" alt="Sample Image" style="width:50%;height:auto;">
-    </a>
+    <img src="https://github.com/brnhaze/Portfolio/blob/main/Excel/2%20histogram.jpg" alt="Sample Image" style="width:50%;height:auto;">
 </div>
 
 ## Measure of Dispersion
@@ -30,19 +27,16 @@ The file contains:
 3 iqr
 
 <div style="text-align:center;">
-    <a href="https://www.example.com">
-        <img src="https://www.example.com/image.jpg" alt="Sample Image" style="width:50%;height:auto;">
-    </a>
+    <img src="https://github.com/brnhaze/Portfolio/blob/main/Excel/3%20iqr.jpg" alt="Sample Image" style="width:50%;height:auto;">
 </div>
 
 ### Box & Whisker
 
 4 box and whisker
 
+
 <div style="text-align:center;">
-    <a href="https://www.example.com">
-        <img src="https://www.example.com/image.jpg" alt="Sample Image" style="width:50%;height:auto;">
-    </a>
+    <img src="https://github.com/brnhaze/Portfolio/blob/main/Excel/4%20box%20and%20whisker.jpg" alt="Sample Image" style="width:50%;height:auto;">
 </div>
 
 ### Z-Score
@@ -50,9 +44,7 @@ The file contains:
 5 z score
 
 <div style="text-align:center;">
-    <a href="https://www.example.com">
-        <img src="https://www.example.com/image.jpg" alt="Sample Image" style="width:50%;height:auto;">
-    </a>
+    <img src="https://github.com/brnhaze/Portfolio/blob/main/Excel/5%20z%20score.jpg" alt="Sample Image" style="width:50%;height:auto;">
 </div>
 
 ### Rank & Percentile
@@ -60,9 +52,7 @@ The file contains:
 6 rank and percent
 
 <div style="text-align:center;">
-    <a href="https://www.example.com">
-        <img src="https://www.example.com/image.jpg" alt="Sample Image" style="width:50%;height:auto;">
-    </a>
+    <img src="https://github.com/brnhaze/Portfolio/blob/main/Excel/6%20rank%20and%20percent.jpg" alt="Sample Image" style="width:50%;height:auto;">
 </div>
 
 ### Percentile
@@ -100,28 +90,42 @@ see excel file
 7 lookup
 
 <div style="text-align:center;">
-    <a href="https://www.example.com">
-        <img src="https://www.example.com/image.jpg" alt="Sample Image" style="width:50%;height:auto;">
-    </a>
+    <img src="https://github.com/brnhaze/Portfolio/blob/main/Excel/7%20lookup.jpg" alt="Sample Image" style="width:50%;height:auto;">
 </div>
 
 ### VLOOKUP
 
 8 vlookup
 
+<div style="text-align:center;">
+    <img src="https://github.com/brnhaze/Portfolio/blob/main/Excel/8%20vlookup.jpg" alt="Sample Image" style="width:50%;height:auto;">
+</div>
+
 ### HLOOKUP
 
 9 hlookup
 
+<div style="text-align:center;">
+    <img src="https://github.com/brnhaze/Portfolio/blob/main/Excel/9%20hlookup.jpg" alt="Sample Image" style="width:50%;height:auto;">
+</div>
+
 ## Pivot Tables
 
 10 pivot table
+
+<div style="text-align:center;">
+    <img src="https://github.com/brnhaze/Portfolio/blob/main/Excel/10%20pivot%20table.jpg" alt="Sample Image" style="width:50%;height:auto;">
+</div>
 
 ## Correlation & Regression
 
 See excel file charts > correlation & regression
 
 11 correlatoin and regression
+
+<div style="text-align:center;">
+    <img src="https://github.com/brnhaze/Portfolio/blob/main/Excel/11%20correlaton%20and%20regression.jpg" alt="Sample Image" style="width:50%;height:auto;">
+</div>
 
 ## Solver
 
@@ -146,9 +150,7 @@ see excel file
 12 column chart
 
 <div style="text-align:center;">
-    <a href="https://www.example.com">
-        <img src="https://www.example.com/image.jpg" alt="Sample Image" style="width:50%;height:auto;">
-    </a>
+    <img src="https://github.com/brnhaze/Portfolio/blob/main/Excel/12%20column%20chart.jpg" alt="Sample Image" style="width:50%;height:auto;">
 </div>
 
 ### Histogram Chart
@@ -156,9 +158,7 @@ see excel file
 13 histogram chart
 
 <div style="text-align:center;">
-    <a href="https://www.example.com">
-        <img src="https://www.example.com/image.jpg" alt="Sample Image" style="width:50%;height:auto;">
-    </a>
+    <img src="https://github.com/brnhaze/Portfolio/blob/main/Excel/13%20histogram%20chart.jpg" alt="Sample Image" style="width:50%;height:auto;">
 </div>
 
 ### Stacked Column Chart
@@ -166,9 +166,7 @@ see excel file
 14 stacked col chart
 
 <div style="text-align:center;">
-    <a href="https://www.example.com">
-        <img src="https://www.example.com/image.jpg" alt="Sample Image" style="width:50%;height:auto;">
-    </a>
+    <img src="https://github.com/brnhaze/Portfolio/blob/main/Excel/14%20stacked%20col%20chart.jpg" alt="Sample Image" style="width:50%;height:auto;">
 </div>
 
 ### Bar Charts Conditional Foramt
@@ -176,9 +174,7 @@ see excel file
 15 bar chart
 
 <div style="text-align:center;">
-    <a href="https://www.example.com">
-        <img src="https://www.example.com/image.jpg" alt="Sample Image" style="width:50%;height:auto;">
-    </a>
+    <img src="https://github.com/brnhaze/Portfolio/blob/main/Excel/15%20bar%20chart.jpg" alt="Sample Image" style="width:50%;height:auto;">
 </div>
 
 ### Dynamic Maps
@@ -186,9 +182,7 @@ see excel file
 16 dyn map
 
 <div style="text-align:center;">
-    <a href="https://www.example.com">
-        <img src="https://www.example.com/image.jpg" alt="Sample Image" style="width:50%;height:auto;">
-    </a>
+    <img src="https://github.com/brnhaze/Portfolio/blob/main/Excel/16%20dyn%20map.jpg" alt="Sample Image" style="width:50%;height:auto;">
 </div>
 
 ### Stacked Area
@@ -196,9 +190,7 @@ see excel file
 17 stacked area chart
 
 <div style="text-align:center;">
-    <a href="https://www.example.com">
-        <img src="https://www.example.com/image.jpg" alt="Sample Image" style="width:50%;height:auto;">
-    </a>
+    <img src="https://github.com/brnhaze/Portfolio/blob/main/Excel/17%20stacked%20area%20chart.jpg" alt="Sample Image" style="width:50%;height:auto;">
 </div>
 
 ### Scatter Plots
@@ -206,9 +198,7 @@ see excel file
 18 scat
 
 <div style="text-align:center;">
-    <a href="https://www.example.com">
-        <img src="https://www.example.com/image.jpg" alt="Sample Image" style="width:50%;height:auto;">
-    </a>
+    <img src="https://github.com/brnhaze/Portfolio/blob/main/Excel/18%20scat.jpg" alt="Sample Image" style="width:50%;height:auto;">
 </div>
 
 ## Conditonal Format
