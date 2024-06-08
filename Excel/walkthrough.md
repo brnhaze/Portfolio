@@ -9,8 +9,7 @@ The file contains:
 1 central tendency
 
 <div style="text-align:center;">
-    <a href="https://www.example.com">
-        <img src="https://www.example.com/image.jpg" alt="Sample Image" style="width:50%;height:auto;">
+        <img src="https://github.com/brnhaze/Portfolio/blob/main/Excel/1%20central%20tendency.jpg" alt="Sample Image" style="width:50%;height:auto;">
     </a>
 </div>
 
