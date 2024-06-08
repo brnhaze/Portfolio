@@ -1,7 +1,7 @@
 # Excel Functions
 
 ## Table of Contents
-[Central Tendency](##Central_Tendency)
+[Central Tendency](#Central_Tendency)
 [Charts](#Charts)
 
 
