@@ -137,6 +137,11 @@ I have taken finance, marketing, academic research, economic, and obtained a Dip
   - [Tableau](https://github.com/brnhaze/capstone/tree/main/Tableau)
 
 ### Excel_Functions
+
+<div style="text-align: center;">
+    <img src="https://github.com/brnhaze/Portfolio/blob/main/Excel/excel_log.jpg" alt="Example Image" />
+</div>
+
 - Description:
 
   Excel Functions" is a curated compilation showcasing my proficiency in leveraging Excel's vast array of functions to streamline data management and analysis
