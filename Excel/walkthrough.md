@@ -26,7 +26,7 @@ Note: Please [download](https://github.com/brnhaze/Portfolio/blob/main/Excel/Cha
 
 The file contains:
 
-### Central Tendency
+### Central_Tendency
 
 <div style="text-align:center;">
     <img src="https://github.com/brnhaze/Portfolio/blob/main/Excel/1%20central%20tendency.jpg" alt="Sample Image" style="width:50%;height:auto;">
