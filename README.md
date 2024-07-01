@@ -54,6 +54,17 @@ I have taken finance, marketing, academic research, economic, and obtained a Dip
   </a>
 </p>
 
+# My Power BI Report
+
+<p align="center">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiNzJlMDhkYjMtMTg3ZC00YTc2LWE3ODEtZDYyODYyNjg1YzM3IiwidCI6ImYyZWI4ZTVjLWQzYjctNDM5ZC1hMzYwLWExMmZhOTM2YmE1YiJ9">
+    <img src="https://raw.githubusercontent.com/your-username/your-repo/main/images/report.png" alt="Report Screenshot">
+  </a>
+</p>
+
+This report provides insights into our data and can be interacted with directly in the Power BI service.
+
+
 - Files
   - SQL
     - [Original File (csv)](https://github.com/brnhaze/Portfolio/blob/main/IGN%20VIdeo%20Game%20Rarings/Original%20File/game_ratings.csv)
