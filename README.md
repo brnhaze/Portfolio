@@ -47,13 +47,6 @@ I have taken finance, marketing, academic research, economic, and obtained a Dip
   - Tableau
 
 - [Visualization](https://public.tableau.com/app/profile/ashwin.pal3698/viz/IGNVideoGameRatings/Dashboard1)
-- # My Power BI Report
-
-<p align="center">
-  <a href="<iframe title="file" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNzJlMDhkYjMtMTg3ZC00YTc2LWE3ODEtZDYyODYyNjg1YzM3IiwidCI6ImYyZWI4ZTVjLWQzYjctNDM5ZC1hMzYwLWExMmZhOTM2YmE1YiJ9" frameborder="0" allowFullScreen="true"></iframe>">
-    <img src="https://raw.githubusercontent.com/your-username/your-repo/main/images/report.png" alt="Report Screenshot">
-  </a>
-</p>
 
 <p align="center">
   <a href="https://public.tableau.com/app/profile/ashwin.pal3698/viz/IGNVideoGameRatings/Dashboard1">
