@@ -162,9 +162,9 @@ I have taken finance, marketing, academic research, economic, and obtained a Dip
 
 ## Resume
 
-[Cover Letter](https://drive.google.com/file/d/17Ep3T3Tyc9buxxoi-2oqE19fNRXZDOYe/view?usp=drive_link)
+[Cover Letter](https://drive.google.com/file/d/12AK0ll3U2jS-lNOTFp5Dp-8ZJthRIbKK/view?usp=sharing)
 
-[Resume](https://drive.google.com/file/d/1qH_f-gV7jZJ6EJVaKLVLqviWFP2aoj54/view?usp=drive_link)
+[Resume](https://drive.google.com/file/d/1Vh5a6vux8P_kvQWbdexQMNCDb9XJ7bcq/view?usp=sharing)
 
 ## Contact
 
