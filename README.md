@@ -177,7 +177,7 @@ This report provides insights into our data and can be interacted with directly 
 
 [Cover Letter](https://drive.google.com/file/d/12AK0ll3U2jS-lNOTFp5Dp-8ZJthRIbKK/view?usp=sharing)
 
-[Resume](https://drive.google.com/file/d/1Vh5a6vux8P_kvQWbdexQMNCDb9XJ7bcq/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/1QvRolQY11nhbNdQOQg1WBtC9jAOsJari/view?usp=sharing)
 
 ## Contact
 
