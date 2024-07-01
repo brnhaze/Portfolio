@@ -167,6 +167,8 @@ This report provides insights into our data and can be interacted with directly 
 
   [Google Cybersecurity Certificate, Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/8LYTW9YMBCWP)
 
+  [Microsoft Certified Data Analyst Associate with Power Bi](https://drive.google.com/file/d/1FxhwwFys8ZnkvQa6axn2sKgh-kJa_uD1/view?usp=sharing)
+
   [Computer Information Systems Administration, BCIT](https://drive.google.com/file/d/1nBbuoL2uJSxZW7VFi127-Ve5jHlG9nW1/view?usp=sharing)
 
   [Law Enforcement Studies Diploma, JIBC](https://drive.google.com/file/d/1_-KxEw3X4hKcqmvhLuSRbENABqgnv3M4/view?usp=sharing)
