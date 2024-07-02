@@ -54,7 +54,7 @@ I have taken finance, marketing, academic research, economic, and obtained a Dip
   </a>
 </p>
 
-- Power Bi Visualization
+- [Power Bi Visualization](https://app.powerbi.com/view?r=eyJrIjoiNzJlMDhkYjMtMTg3ZC00YTc2LWE3ODEtZDYyODYyNjg1YzM3IiwidCI6ImYyZWI4ZTVjLWQzYjctNDM5ZC1hMzYwLWExMmZhOTM2YmE1YiJ9)
 
 <p align="center">
   <a href="https://app.powerbi.com/view?r=eyJrIjoiNzJlMDhkYjMtMTg3ZC00YTc2LWE3ODEtZDYyODYyNjg1YzM3IiwidCI6ImYyZWI4ZTVjLWQzYjctNDM5ZC1hMzYwLWExMmZhOTM2YmE1YiJ9">
