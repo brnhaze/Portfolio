@@ -175,9 +175,9 @@ This report provides insights into our data and can be interacted with directly 
 
 ## Resume
 
-[Cover Letter](https://drive.google.com/file/d/1BKsnommTRPQicMw-k1WAViVQMsAiJgNn/view?usp=drive_link)
+[Cover Letter](https://drive.google.com/file/d/1pUoA0L0b-4Gy-u5_vhl_pTVWMgbJt6Ft/view?usp=drive_link)
 
-[Resume](https://drive.google.com/file/d/17rdBNjbhKbkoYcCKOGPUkAma06edP9We/view?usp=drive_link)
+[Resume](https://drive.google.com/file/d/1vxVneAaPkveuwXghT1L47i-L2BlUE6Hy/view?usp=drive_link)
 
 ## Contact
 
