@@ -18,11 +18,11 @@ Welcome to my data analytics portfolio! This repository contains a collection of
 I recently completed the Data Analytics Digital Diploma Program at Lighthouse Labs, where I gained extensive experience in data collection, processing, and analysis. My proficiency with data visualization tools such as Tableau and Power BI, coupled with my expertise in programming languages like Python and SQL, enables me to transform complex data sets into meaningful insights.
 
 Key Skills and Qualifications:
-•	Data Visualization & Dashboards: Proficient in Tableau, Power BI; skilled in data storytelling and design principles.
-•	Programming & Scripting: Expertise in Python, SQL, R; experience in data manipulation and statistical analysis.
-•	Data Analysis & Reporting: Strong analytical skills; adept at using data to drive strategic decisions and reporting.
-•	Communication & Collaboration: Effective communicator; able to convey complex technical information to diverse audiences.
-•	Marketing Analytics: Completed courses in Digital Marketing Analytics and Digital Marketing, providing a strong foundation in using data to drive marketing strategies.
+- Data Visualization & Dashboards: Proficient in Tableau, Power BI; skilled in data storytelling and design principles.
+- Programming & Scripting: Expertise in Python, SQL, R; experience in data manipulation and statistical analysis.
+- Data Analysis & Reporting: Strong analytical skills; adept at using data to drive strategic decisions and reporting.
+- Communication & Collaboration: Effective communicator; able to convey complex technical information to diverse audiences.
+- Marketing Analytics: Completed courses in Digital Marketing Analytics and Digital Marketing, providing a strong foundation in using data to drive marketing strategies.
 
 In my current role as a Systems Specialist in Operations at Vancouver City Savings Credit Union, I manage system monitoring through various dashboards, respond to system events and alerts, and utilize SIEM tools like Splunk to ensure the stability and security of services. This role has refined my analytical and problem-solving abilities, which are crucial for a data-driven environment.
 
