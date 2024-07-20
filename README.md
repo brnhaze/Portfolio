@@ -15,19 +15,18 @@ Welcome to my data analytics portfolio! This repository contains a collection of
 
 ## About-Me
 
-I have completed the Data Analytics Digital Diploma Program at Lighthouse Labs. I have honed my skills in collecting, processing, and analyzing data to extract insights and inform strategic business decisions. My proficiencies include data visualization tools such as Tableau and Power BI, as well as program languages like Python and R for data manipulation and statistical analysis.
+I recently completed the Data Analytics Digital Diploma Program at Lighthouse Labs, where I gained extensive experience in data collection, processing, and analysis. My proficiency with data visualization tools such as Tableau and Power BI, coupled with my expertise in programming languages like Python and SQL, enables me to transform complex data sets into meaningful insights.
 
-A brief overview of the skills and qualities I possess are as follows:
-- Data Visualization & Dashboards (Tableau, Data Connectivity, Data Preparation, Storytelling with Data Design Principles)
-- Code Fundamentals (Cleaning, Python & Statistical Modelling, Frameworks & Libraries, GIT, CLI, and APIs)
-- Data Soft Skills (Communication & Presentation for Technical and Non-Technical Audiences, and Teamwork)
-- Data Analysis (Extract, Transform, Load – ELT Process), PostgreSQL, Data Manipulation, QA Processes, Data Ethics and Access, Pandas, NumPy)
+Key Skills and Qualifications:
+•	Data Visualization & Dashboards: Proficient in Tableau, Power BI; skilled in data storytelling and design principles.
+•	Programming & Scripting: Expertise in Python, SQL, R; experience in data manipulation and statistical analysis.
+•	Data Analysis & Reporting: Strong analytical skills; adept at using data to drive strategic decisions and reporting.
+•	Communication & Collaboration: Effective communicator; able to convey complex technical information to diverse audiences.
+•	Marketing Analytics: Completed courses in Digital Marketing Analytics and Digital Marketing, providing a strong foundation in using data to drive marketing strategies.
 
-Currently, working as a Systems Specialist in Operations at Vancouver City Savings Credit Union since May 2022. Monitoring systems through various dashboards & system events or alerts. My position entails monitoring and triggering workflows and using SIEM products such as Splunk.
+In my current role as a Systems Specialist in Operations at Vancouver City Savings Credit Union, I manage system monitoring through various dashboards, respond to system events and alerts, and utilize SIEM tools like Splunk to ensure the stability and security of services. This role has refined my analytical and problem-solving abilities, which are crucial for a data-driven environment.
 
-Previously, graduated from British Columbia Institute of Technology (BCIT), completing Computer Information Systems Administration (CISA) Diploma program. I attained Information Technology infrastructure (IT) solution skills for computer administration and networking. The program compromises of theory, installation, configuration, maintenance, monitoring, and troubleshooting hardware and systems.
-
-I have taken finance, marketing, academic research, economic, and obtained a Diploma in Law Enforcement Studies.
+My educational background includes a Computer Information Systems Administration Diploma from the British Columbia Institute of Technology (BCIT) and a Google Cybersecurity Certificate from Coursera. These programs have equipped me with a comprehensive understanding of IT infrastructure, cybersecurity principles, and data analysis techniques. Additionally, I have completed specialized courses in digital marketing through Udemy, enhancing my ability to analyze marketing data and develop strategies to optimize campaigns.
 
 ## Projects
 
