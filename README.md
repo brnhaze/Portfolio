@@ -180,6 +180,6 @@ This report provides insights into our data and can be interacted with directly 
 
 ## Contact
 
-  [Email: ashwin_pal@hotmail.com](mailto:ashwin_pal@hotmail.com)
+  [Send Email: ashwin_pal@hotmail.com](mailto:ashwin_pal@hotmail.com)
   
   [LinkedIn](https://www.linkedin.com/in/ashwin-4609332a/)
