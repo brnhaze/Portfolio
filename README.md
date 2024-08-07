@@ -5,6 +5,7 @@ Welcome to my data analytics portfolio! This repository contains a collection of
 ## Table of Contents
 - [About](#About-Me)
 - [Projects](#Projects)
+  - [News API](#News_API)
   - [IGN Video Game Ratings](#IGN_Video_Game_Ratings)
   - [Disney Movies](#Disney-Movies)
   - [Capstone Project](#Capstone)
@@ -29,6 +30,24 @@ In my current role as a Systems Specialist in Operations at Vancouver City Savin
 My educational background includes a Computer Information Systems Administration Diploma from the British Columbia Institute of Technology (BCIT) and a Google Cybersecurity Certificate from Coursera. These programs have equipped me with a comprehensive understanding of IT infrastructure, cybersecurity principles, and data analysis techniques. Additionally, I have completed specialized courses in digital marketing through Udemy, enhancing my ability to analyze marketing data and develop strategies to optimize campaigns.
 
 ## Projects
+
+### News_API
+
+<div align="center">
+    <img src="path" alt="logo">
+</div>
+
+- Description
+
+  I created this project to demonstrate my proficiency in data extraction, data analysis, and sentiment analysis using APIs, data manipulation libraries, and Natural Language Processing (NLP) techniques. By integrating the News API, I was able to gather real-time data about a trending topic, perform in-depth analysis, and derive insights, which are crucial skills for a Data Analyst role.
+
+- Technologies Used:
+  - Python
+
+- Files
+  - [API (.ipynb)](https://github.com/brnhaze/Portfolio/blob/main/News%20API/1%20API.ipynb)
+  - [Articles (.ipynb)](https://github.com/brnhaze/Portfolio/blob/main/News%20API/2%20Articles.ipynb)
+  - [articles.csv](https://github.com/brnhaze/Portfolio/blob/main/News%20API/articles.csv)
 
 ### IGN_Video_Game_Ratings
 
