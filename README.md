@@ -34,7 +34,7 @@ My educational background includes a Computer Information Systems Administration
 ### News_API
 
 <div align="center">
-    <img src="path" alt="logo">
+    <img src="https://github.com/brnhaze/Portfolio/blob/main/News%20API/newsapi.jpg" alt="logo">
 </div>
 
 - Description
