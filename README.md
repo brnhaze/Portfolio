@@ -16,7 +16,7 @@ Welcome to my data analytics portfolio! This repository contains a collection of
 
 ## About-Me
 
-I recently completed the Data Analytics Digital Diploma Program at Lighthouse Labs, where I gained extensive experience in data collection, processing, and analysis. My proficiency with data visualization tools such as Tableau and Power BI, coupled with my expertise in programming languages like Python and SQL, enables me to transform complex data sets into meaningful insights.
+I completed the Data Analytics Digital Diploma Program at Lighthouse Labs, where I gained extensive experience in data collection, processing, and analysis. My proficiency with data visualization tools such as Tableau and Power BI, coupled with my expertise in programming languages like Python and SQL, enables me to transform complex data sets into meaningful insights.
 
 Key Skills and Qualifications:
 - Data Visualization & Dashboards: Proficient in Tableau, Power BI; skilled in data storytelling and design principles.
@@ -25,7 +25,7 @@ Key Skills and Qualifications:
 - Communication & Collaboration: Effective communicator; able to convey complex technical information to diverse audiences.
 - Marketing Analytics: Completed courses in Digital Marketing Analytics and Digital Marketing, providing a strong foundation in using data to drive marketing strategies.
 
-In my current role as a Systems Specialist in Operations at Vancouver City Savings Credit Union, I manage system monitoring through various dashboards, respond to system events and alerts, and utilize SIEM tools like Splunk to ensure the stability and security of services. This role has refined my analytical and problem-solving abilities, which are crucial for a data-driven environment.
+In my current role as a Systems Specialist | Analyst in Operations at Vancouver City Savings Credit Union, I manage system monitoring through various dashboards, respond to system events and alerts, and utilize SIEM tools like Splunk to ensure the stability and security of services. This role has refined my analytical and problem-solving abilities, which are crucial for a data-driven environment.
 
 My educational background includes a Computer Information Systems Administration Diploma from the British Columbia Institute of Technology (BCIT) and a Google Cybersecurity Certificate from Coursera. These programs have equipped me with a comprehensive understanding of IT infrastructure, cybersecurity principles, and data analysis techniques. Additionally, I have completed specialized courses in digital marketing through Udemy, enhancing my ability to analyze marketing data and develop strategies to optimize campaigns.
 
