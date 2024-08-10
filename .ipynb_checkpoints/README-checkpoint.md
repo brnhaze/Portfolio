@@ -34,6 +34,10 @@ My educational background includes a Computer Information Systems Administration
 
 ### Car_Price_Prediction
 
+<div align="center">
+    <img src="https://github.com/brnhaze/Portfolio/blob/main/Car%20Price%20Prediction/car.jpeg" alt="logo">
+</div>
+
 - Description
 
   In the Car Price Prediction project, I leveraged machine learning techniques, specifically linear regression, to predict car prices based on a dataset from Kaggle. The process begins with data cleaning and preprocessing, where I addressed issues like inconsistent column naming and missing values. After organizing the data, I conducted exploratory data analysis (EDA) to understand the distribution of key features such as engine horsepower, fuel type, and vehicle size. The core of the project is building a linear regression model that uses these features to predict the MSRP (Manufacturer's Suggested Retail Price) of cars. By applying logarithmic transformations to reduce skewness and stabilize variance, I improved the model's performance. The linear regression model was trained, validated, and tested on different subsets of the data, with the final output being a predicted price for each vehicle. The project showcases my ability to work with real-world data, apply statistical methods, and implement machine learning models using Python and TensorFlow.

@@ -35,7 +35,7 @@ My educational background includes a Computer Information Systems Administration
 ### Car_Price_Prediction
 
 <div align="center">
-    <img src="https://github.com/brnhaze/Portfolio/blob/main/News%20API/newsapi.jpg" alt="logo">
+    <img src="https://github.com/brnhaze/Portfolio/blob/main/Car%20Price%20Prediction/car.jpeg" alt="logo">
 </div>
 
 - Description
