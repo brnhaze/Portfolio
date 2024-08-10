@@ -5,7 +5,7 @@ Welcome to my data analytics portfolio! This repository contains a collection of
 ## Table of Contents
 - [About](#About-Me)
 - [Projects](#Projects)
-  - [Car Price PricePediction Using AI, ML, and TensorFlor](#Car_Price_Prediction)
+  - [Predicting Car Prices Using Linear Regression: A Machine Learning Approach with Data Preprocessing and EDA](#Car_Price_Prediction)
   - [News API](#News_API)
   - [IGN Video Game Ratings](#IGN_Video_Game_Ratings)
   - [Disney Movies](#Disney-Movies)
