@@ -5,7 +5,7 @@ Welcome to my data analytics portfolio! This repository contains a collection of
 ## Table of Contents
 - [About](#About-Me)
 - [Projects](#Projects)
-  - [Car_Price_ Price_Pediction](https://github.com/brnhaze/Portfolio/blob/main/Car%20Price%20Prediction/1%20Project%20Plan.ipynb)
+  - [Car Price PricePediction Using AI, ML, and TensorFlor](#Car_Price_Prediction)
   - [News API](#News_API)
   - [IGN Video Game Ratings](#IGN_Video_Game_Ratings)
   - [Disney Movies](#Disney-Movies)
@@ -31,6 +31,18 @@ In my current role as a Systems Specialist | Analyst in Operations at Vancouver 
 My educational background includes a Computer Information Systems Administration Diploma from the British Columbia Institute of Technology (BCIT) and a Google Cybersecurity Certificate from Coursera. These programs have equipped me with a comprehensive understanding of IT infrastructure, cybersecurity principles, and data analysis techniques. Additionally, I have completed specialized courses in digital marketing through Udemy, enhancing my ability to analyze marketing data and develop strategies to optimize campaigns.
 
 ## Projects
+
+### Car_Price_Prediction
+
+- Description
+
+  In the Car Price Prediction project, I leveraged machine learning techniques, specifically linear regression, to predict car prices based on a dataset from Kaggle. The process begins with data cleaning and preprocessing, where I addressed issues like inconsistent column naming and missing values. After organizing the data, I conducted exploratory data analysis (EDA) to understand the distribution of key features such as engine horsepower, fuel type, and vehicle size. The core of the project is building a linear regression model that uses these features to predict the MSRP (Manufacturer's Suggested Retail Price) of cars. By applying logarithmic transformations to reduce skewness and stabilize variance, I improved the model's performance. The linear regression model was trained, validated, and tested on different subsets of the data, with the final output being a predicted price for each vehicle. The project showcases my ability to work with real-world data, apply statistical methods, and implement machine learning models using Python and TensorFlow.
+
+- Technologies Used:
+    - Python
+- Files
+    - [.ipynb](https://github.com/brnhaze/Portfolio/blob/main/Car%20Price%20Prediction/1%20Project%20Plan.ipynb)
+    - [Raw Data.csv](https://github.com/brnhaze/Portfolio/blob/main/Car%20Price%20Prediction/data.csv)
 
 ### News_API
 
