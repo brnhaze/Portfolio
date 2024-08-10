@@ -5,7 +5,6 @@ Welcome to my data analytics portfolio! This repository contains a collection of
 ## Table of Contents
 - [About](#About-Me)
 - [Projects](#Projects)
-  - [Car_Price_ Price_Pediction](https://github.com/brnhaze/Portfolio/blob/main/Car%20Price%20Prediction/1%20Project%20Plan.ipynb)
   - [News API](#News_API)
   - [IGN Video Game Ratings](#IGN_Video_Game_Ratings)
   - [Disney Movies](#Disney-Movies)
