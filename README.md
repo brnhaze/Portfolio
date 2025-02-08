@@ -228,11 +228,11 @@ This report provides insights into our data and can be interacted with directly 
 
 ## Resume
 
-[Cover Letter & Cover Letter](https://drive.google.com/file/d/1Q5V6wJYhJQh0NRIZBrsxD4ZmhzpIiWu3/view?usp=drive_link](https://drive.google.com/file/d/10mp-NU4kfXfetaZUs86axshZOUwllSva/view?usp=sharing)
+[Cover Letter & Cover Letter](https://drive.google.com/file/d/10mp-NU4kfXfetaZUs86axshZOUwllSva/view?usp=sharing)
 
 
 ## Contact
 
   [Send Email](mailto:ashwinpraneelpal@hotmail.com)
   
-  [LinkedIn](https://www.linkedin.com/in/ashwin-4609332a/](https://www.linkedin.com/in/ashwinpal17/)
+  [LinkedIn](https://www.linkedin.com/in/ashwinpal17/)
