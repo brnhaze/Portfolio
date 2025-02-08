@@ -1,6 +1,8 @@
 # Ashwin's Data Analytics Portfolio
 
-Welcome to my data analytics portfolio! This repository contains a collection of projects, analyses, and code snippets that demonstrate my skills and experience in the field of data analytics. Feel free to explore the projects listed below.
+Welcome to my Data Scientist/Analyst (DS/DA) portfolio! This repository contains a collection of projects, analyses, and code snippets that demonstrate my skills and experience in the field of data analytics. Feel free to explore the projects listed below.
+
+! More DS work to come !!!
 
 ## Table of Contents
 - [About](#About-Me)
@@ -17,18 +19,32 @@ Welcome to my data analytics portfolio! This repository contains a collection of
 
 ## About-Me
 
-I completed the Data Analytics Digital Diploma Program at Lighthouse Labs, where I gained extensive experience in data collection, processing, and analysis. My proficiency with data visualization tools such as Tableau and Power BI, coupled with my expertise in programming languages like Python and SQL, enables me to transform complex data sets into meaningful insights.
+Data-driven professional with a strong foundation in applied data science and machine learning, backed by MIT's AppliedData Science Program (ADSP). Proficient in Python, SQL, Tableau, and Power BI, with expertise in supervised andunsupervised learning, regression analysis, recommendation systems, neural networks, and AI-driven decision-making.Skilled in statistical modeling, data visualization, and applying AI/ML techniques to real-world business problems.
+
+Adept at leveraging automation to enhance efficiency, ensure data integrity, and drive strategic insights. Committed todelivering innovative, data-driven solutions that optimize productivity and align with organizational goals.
 
 Key Skills and Qualifications:
-- Data Visualization & Dashboards: Proficient in Tableau, Power BI; skilled in data storytelling and design principles.
-- Programming & Scripting: Expertise in Python, SQL, R; experience in data manipulation and statistical analysis.
-- Data Analysis & Reporting: Strong analytical skills; adept at using data to drive strategic decisions and reporting.
-- Communication & Collaboration: Effective communicator; able to convey complex technical information to diverse audiences.
-- Marketing Analytics: Completed courses in Digital Marketing Analytics and Digital Marketing, providing a strong foundation in using data to drive marketing strategies.
+- Developed expertise in machine learning, deep learning, and AI-driven decision-making.
+- Applied supervised and unsupervised learning, including regression, classification,clustering, neural networks, and recommended systems
+- Built recommendation systems and explored network analysis for real-world applications.
+- Strengthened skills in Python, statistics, and data visualization with Pandas, NumPy, Matplotlib, and Seaborn.
+- Implemented time-series forecasting, decision trees, random forests, and computer visiontechniques.
+- Gained hands-on experience with Scikit-learn, TensorFlow, Keras, and PyTorch for modeldevelopment and deployment.
 
-In my current role as a Systems Specialist | Analyst in Operations at Vancouver City Savings Credit Union, I manage system monitoring through various dashboards, respond to system events and alerts, and utilize SIEM tools like Splunk to ensure the stability and security of services. This role has refined my analytical and problem-solving abilities, which are crucial for a data-driven environment.
+In my current role, I have been working as a Command Centre Engineer (Systems Specialist/Analyst) at VanCity Savings Credit
+Union, where I focus on monitoring, automation, deployment, and troubleshooting within IT operations. My role involves
+maintaining system stability, data workflows, and process automation while collaborating with cross-functional teams to
+ensure operational efficiency. I work with Splunk, ServiceNow, PagerDuty, Control-M, and Azure Pipelines to monitor and
+optimize system performance, manage ETL processes, and automate workflows for enhanced data processing and
+reporting. Additionally, I contribute to documentation and knowledge management, ensuring consistency in technical
+procedures and operational efficiency.
 
-My educational background includes a Computer Information Systems Administration Diploma from the British Columbia Institute of Technology (BCIT) and a Google Cybersecurity Certificate from Coursera. These programs have equipped me with a comprehensive understanding of IT infrastructure, cybersecurity principles, and data analysis techniques. Additionally, I have completed specialized courses in digital marketing through Udemy, enhancing my ability to analyze marketing data and develop strategies to optimize campaigns.
+I have completed the Applied Data Science Program (ADSP) at the Massachusetts Institute of Technology (MIT), where I
+advanced my expertise in supervised and unsupervised learning, machine learning, deep learning, and recommendation
+systems. This builds upon my Data Analytics Diploma from Lighthouse Labs, where I gained hands-on experience with
+Python, R, and PostgreSQL for statistical modeling and data visualization. Additionally, my Computer Information Systems
+Administration (CISA) diploma from BCIT has provided me with a strong foundation in network management, cloud services,
+and data security.
 
 ## Projects
 
@@ -198,6 +214,8 @@ This report provides insights into our data and can be interacted with directly 
 
 ## Education
 
+  [Applied Data Science Program (ADSP), Massachusetts Institute of Technology (MIT)]()
+  
   [Data Analytics Diploma, Lighthouse Labs](https://drive.google.com/file/d/1qZi7_tKmb5kzElikBvMGAhvracI2biPU/view)
 
   [Google Cybersecurity Certificate, Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/8LYTW9YMBCWP)
@@ -210,12 +228,11 @@ This report provides insights into our data and can be interacted with directly 
 
 ## Resume
 
-[Cover Letter](https://drive.google.com/file/d/1Q5V6wJYhJQh0NRIZBrsxD4ZmhzpIiWu3/view?usp=drive_link)
+[Cover Letter & Cover Letter]([https://drive.google.com/file/d/1Q5V6wJYhJQh0NRIZBrsxD4ZmhzpIiWu3/view?usp=drive_link](https://drive.google.com/file/d/10mp-NU4kfXfetaZUs86axshZOUwllSva/view?usp=sharing))
 
-[Resume](https://drive.google.com/file/d/1GwGJj7DPGqqjDzomwHalLFCubsX8KV_-/view?usp=drive_link)
 
 ## Contact
 
-  [Send Email](mailto:ashwin_pal@hotmail.com)
+  [Send Email](mailto:ashwinpraneelpal@hotmail.com)
   
-  [LinkedIn](https://www.linkedin.com/in/ashwin-4609332a/)
+  [LinkedIn]([https://www.linkedin.com/in/ashwin-4609332a/](https://www.linkedin.com/in/ashwinpal17/))
