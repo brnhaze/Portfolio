@@ -7,6 +7,8 @@ Welcome to my Data Scientist/Analyst (DS/DA) portfolio! This repository contains
 ## Table of Contents
 - [About](#About-Me)
 - [Projects](#Projects)
+  - [Music Recommended System](#Music_Recommended_System)
+  - [Amazon Product Recommended System](#Amazon_Product_Recommended_System)
   - [Predicting Car Prices Using Linear Regression: A Machine Learning Approach with Data Preprocessing and EDA](#Car_Price_Prediction)
   - [News API](#News_API)
   - [IGN Video Game Ratings](#IGN_Video_Game_Ratings)
@@ -84,7 +86,7 @@ and data security.
 
 <div align="center">
     <img src="https://github.com/brnhaze/Portfolio/blob/main/Recommended%20Systems/Amazon%20Products/amaprod.jpg" 
-         alt="logo" width="200" height="100">
+         alt="logo" width="300" height="100">
 </div>
 
 - Description
