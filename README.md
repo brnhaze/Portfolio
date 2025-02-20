@@ -1,4 +1,4 @@
-# Ashwin's Data Analytics Portfolio
+# Ashwin's Data Science (DS/DA) Portfolio
 
 Welcome to my Data Scientist/Analyst (DS/DA) portfolio! This repository contains a collection of projects, analyses, and code snippets that demonstrate my skills and experience in the field of data analytics. Feel free to explore the projects listed below.
 
@@ -19,19 +19,17 @@ Welcome to my Data Scientist/Analyst (DS/DA) portfolio! This repository contains
 - [Cover Letter & Resume](#Resume)
 - [Contact Information](#Contact)
 
-## About-Me
+## 🔹About-Me
 
 Data-driven professional with a strong foundation in applied data science and machine learning, backed by MIT's AppliedData Science Program (ADSP). Proficient in Python, SQL, Tableau, and Power BI, with expertise in supervised andunsupervised learning, regression analysis, recommendation systems, neural networks, and AI-driven decision-making.Skilled in statistical modeling, data visualization, and applying AI/ML techniques to real-world business problems.
 
 Adept at leveraging automation to enhance efficiency, ensure data integrity, and drive strategic insights. Committed todelivering innovative, data-driven solutions that optimize productivity and align with organizational goals.
 
-Key Skills and Qualifications:
-- Developed expertise in machine learning, deep learning, and AI-driven decision-making.
-- Applied supervised and unsupervised learning, including regression, classification,clustering, neural networks, and recommended systems
-- Built recommendation systems and explored network analysis for real-world applications.
-- Strengthened skills in Python, statistics, and data visualization with Pandas, NumPy, Matplotlib, and Seaborn.
-- Implemented time-series forecasting, decision trees, random forests, and computer visiontechniques.
-- Gained hands-on experience with Scikit-learn, TensorFlow, Keras, and PyTorch for modeldevelopment and deployment.
+🔹 Key Expertise & Specializations
+✅ Machine Learning & AI – Supervised & Unsupervised Learning, Neural Networks, SVD, Clustering
+✅ Data Analytics & Visualization – Python, SQL, Tableau, Power BI, Pandas, Seaborn, Matplotlib
+✅ ETL & Automation – Azure Pipelines, Control-M, Dollar Universe, Splunk, ServiceNow
+✅ Cloud & Big Data – AWS, Azure, PySpark, Apache Spark
 
 In my current role, I have been working as a Command Centre Engineer (Systems Specialist/Analyst) at VanCity Savings Credit
 Union, where I focus on monitoring, automation, deployment, and troubleshooting within IT operations. My role involves
@@ -50,7 +48,7 @@ and data security.
 
 ## Projects
 
-###Music_Recommended_System
+### Music_Recommended_System
 
 <div align="center">
     <img src="https://github.com/brnhaze/Portfolio/blob/main/Recommended%20Systems/Music/music.jpg" 
@@ -82,7 +80,7 @@ and data security.
     - [.ipynb](https://github.com/brnhaze/Portfolio/blob/main/Recommended%20Systems/Music/Music_Recommendation_System.ipynb)
     - [.html](https://github.com/brnhaze/Portfolio/blob/main/Recommended%20Systems/Music/Music_Recommendation_System.html)
 
-###Amazon_Product_Recommended_System
+### Amazon_Product_Recommended_System
 
 <div align="center">
     <img src="https://github.com/brnhaze/Portfolio/blob/main/Recommended%20Systems/Amazon%20Products/amaprod.jpg" 
