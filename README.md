@@ -94,10 +94,10 @@ and data security.
   This project focuses on building an Amazon Product Recommendation System using advanced machine learning and data science techniques. The goal is to enhance the shopping experience by providing personalized product recommendations based on user behavior and product interactions.
 
   Key Features:
-  ✅ Collaborative Filtering: Recommends products based on user purchase history and preferences.
-  ✅ Content-Based Filtering: Suggests similar items by analyzing product descriptions, categories, and features.
-  ✅ Hybrid Approach: Combines collaborative and content-based filtering for more accurate recommendations.
-  ✅ Performance Optimization: Evaluates models using Precision, Recall, RMSE, and F1-score to improve accuracy.
+  - ✅ Collaborative Filtering: Recommends products based on user purchase history and preferences.
+  - ✅ Content-Based Filtering: Suggests similar items by analyzing product descriptions, categories, and features.
+  - ✅ Hybrid Approach: Combines collaborative and content-based filtering for more accurate recommendations.
+  - ✅ Performance Optimization: Evaluates models using Precision, Recall, RMSE, and F1-score to improve accuracy.
   
   Why This Matters?
   In a fast-growing e-commerce environment, personalized recommendations drive better customer engagement and increased sales. This system mimics Amazon’s recommendation engine to suggest relevant products efficiently.
