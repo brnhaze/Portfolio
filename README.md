@@ -48,10 +48,11 @@ and data security.
 
 ## Projects
 
-###Music Recommended System
+###Music_Recommended_System
 
 <div align="center">
-    <img src="https://github.com/brnhaze/Portfolio/blob/main/Recommended%20Systems/Music/music.jpg" alt="logo">
+    <img src="https://github.com/brnhaze/Portfolio/blob/main/Recommended%20Systems/Music/music.jpg" 
+         alt="logo" width="400" height="250">
 </div>
 
 - Description
@@ -79,15 +80,31 @@ and data security.
     - [.ipynb](https://github.com/brnhaze/Portfolio/blob/main/Recommended%20Systems/Music/Music_Recommendation_System.ipynb)
     - [.html](https://github.com/brnhaze/Portfolio/blob/main/Recommended%20Systems/Music/Music_Recommendation_System.html)
 
-###Amazon Product Recommended System
+###Amazon_Product_Recommended_System
 
 <div align="center">
-    <img src="https://github.com/brnhaze/Portfolio/blob/main/Recommended%20Systems/Amazon%20Products/amaprod.jpg" alt="logo">
+    <img src="https://github.com/brnhaze/Portfolio/blob/main/Recommended%20Systems/Amazon%20Products/amaprod.jpg" 
+         alt="logo" width="200" height="100">
 </div>
 
 - Description
 
-  ddd
+  This project focuses on building an Amazon Product Recommendation System using advanced machine learning and data science techniques. The goal is to enhance the shopping experience by providing personalized product recommendations based on user behavior and product interactions.
+
+  Key Features:
+  ✅ Collaborative Filtering: Recommends products based on user purchase history and preferences.
+  ✅ Content-Based Filtering: Suggests similar items by analyzing product descriptions, categories, and features.
+  ✅ Hybrid Approach: Combines collaborative and content-based filtering for more accurate recommendations.
+  ✅ Performance Optimization: Evaluates models using Precision, Recall, RMSE, and F1-score to improve accuracy.
+  
+  Why This Matters?
+  In a fast-growing e-commerce environment, personalized recommendations drive better customer engagement and increased sales. This system mimics Amazon’s recommendation engine to suggest relevant products efficiently.
+  
+  🔹 Technologies Used: Python, Pandas, NumPy, Scikit-learn, Surprise Library, TF-IDF, Cosine Similarity, SVD
+  
+  🚀 Outcome: A smart AI-driven product recommender that helps users find products they’ll love while improving business revenue.
+  
+  Would you like a detailed breakdown of the methodology used? 😊
 
 - Technologies Used:
     - Python
