@@ -48,6 +48,53 @@ and data security.
 
 ## Projects
 
+###Music Recommended System
+
+<div align="center">
+    <img src="https://github.com/brnhaze/Portfolio/blob/main/Recommended%20Systems/Music/music.jpg" alt="logo">
+</div>
+
+- Description
+
+  This project focuses on building a Music Recommendation System using collaborative filtering and content-based filtering techniques. It leverages user-song interaction data to generate personalized song recommendations.
+
+  Key Features:
+  ✅ Collaborative Filtering: Uses user-based and item-based similarity to recommend songs based on listening history.
+  ✅ Content-Based Filtering: Applies TF-IDF vectorization and cosine similarity to analyze song metadata for better recommendations.
+  ✅ Hybrid Approach: Combines SVD (Singular Value Decomposition) and user-based filtering for optimized accuracy and personalization.
+  ✅ Performance Evaluation: Models are compared using Precision, Recall, RMSE, and F1-score to assess recommendation quality.
+
+  Why This Matters:
+  With the growing demand for personalized music experiences, this system helps users discover new songs aligned with their preferences. It can be scaled for real-world applications such as Spotify-like recommendation engines.
+  
+  🔹 Technologies Used: Python, Pandas, NumPy, Scikit-learn, Surprise Library, NLTK, TF-IDF, Cosine Similarity
+  
+  🚀 Outcome: A fully functional AI-driven music recommender that intelligently suggests songs based on user behavior and song attributes.
+  
+  Let me know if you want any refinements for your portfolio! 😊
+
+- Technologies Used:
+    - Python
+- Files
+    - [.ipynb](https://github.com/brnhaze/Portfolio/blob/main/Recommended%20Systems/Music/Music_Recommendation_System.ipynb)
+    - [.html](https://github.com/brnhaze/Portfolio/blob/main/Recommended%20Systems/Music/Music_Recommendation_System.html)
+
+###Amazon Product Recommended System
+
+<div align="center">
+    <img src="https://github.com/brnhaze/Portfolio/blob/main/Recommended%20Systems/Amazon%20Products/amaprod.jpg" alt="logo">
+</div>
+
+- Description
+
+  ddd
+
+- Technologies Used:
+    - Python
+- Files
+    - [.ipynb](https://github.com/brnhaze/Portfolio/blob/main/Recommended%20Systems/Amazon%20Products/Recommendation_Systems_Learner_Notebook_Full_Code.ipynb)
+    - [.html](https://github.com/brnhaze/Portfolio/blob/main/Recommended%20Systems/Amazon%20Products/Amazon%20Products%20RecommendationSystem.html)
+
 ### Car_Price_Prediction
 
 <div align="center">
