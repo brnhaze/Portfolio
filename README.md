@@ -23,9 +23,9 @@ Explore my work in machine learning, predictive modeling, data visualization, an
 
 ## 🔹About-Me
 
-Data-driven professional with a strong foundation in applied data science and machine learning, backed by MIT's AppliedData Science Program (ADSP). Proficient in Python, SQL, Tableau, and Power BI, with expertise in supervised andunsupervised learning, regression analysis, recommendation systems, neural networks, and AI-driven decision-making.Skilled in statistical modeling, data visualization, and applying AI/ML techniques to real-world business problems.
+Data-driven professional with a strong foundation in applied data science and machine learning, backed by MIT's Applied Data Science Program (ADSP). Proficient in Python, SQL, Tableau, and Power BI, with expertise in supervised andunsupervised learning, regression analysis, recommendation systems, neural networks, and AI-driven decision-making. Skilled in statistical modeling, data visualization, and applying AI/ML techniques to real-world business problems.
 
-Adept at leveraging automation to enhance efficiency, ensure data integrity, and drive strategic insights. Committed todelivering innovative, data-driven solutions that optimize productivity and align with organizational goals.
+Adept at leveraging automation to enhance efficiency, ensure data integrity, and drive strategic insights. Committed to delivering innovative, data-driven solutions that optimize productivity and align with organizational goals.
 
 🔹 Key Expertise & Specializations
 - ✅ Machine Learning & AI – Supervised & Unsupervised Learning, Neural Networks, SVD, Clustering
@@ -45,7 +45,7 @@ I have completed the Applied Data Science Program (ADSP) at the Massachusetts In
 advanced my expertise in supervised and unsupervised learning, machine learning, deep learning, and recommendation
 systems. This builds upon my Data Analytics Diploma from Lighthouse Labs, where I gained hands-on experience with
 Python, R, and PostgreSQL for statistical modeling and data visualization. Additionally, my Computer Information Systems
-Administration (CISA) diploma from BCIT has provided me with a strong foundation in network management, cloud services,
+Administration (CISA) diploma from the British Columbia Institute of Technology (BCIT) has provided me with a strong foundation in network management, cloud services,
 and data security.
 
 ## Projects
