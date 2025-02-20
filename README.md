@@ -26,10 +26,10 @@ Data-driven professional with a strong foundation in applied data science and ma
 Adept at leveraging automation to enhance efficiency, ensure data integrity, and drive strategic insights. Committed todelivering innovative, data-driven solutions that optimize productivity and align with organizational goals.
 
 🔹 Key Expertise & Specializations
-✅ Machine Learning & AI – Supervised & Unsupervised Learning, Neural Networks, SVD, Clustering
-✅ Data Analytics & Visualization – Python, SQL, Tableau, Power BI, Pandas, Seaborn, Matplotlib
-✅ ETL & Automation – Azure Pipelines, Control-M, Dollar Universe, Splunk, ServiceNow
-✅ Cloud & Big Data – AWS, Azure, PySpark, Apache Spark
+- ✅ Machine Learning & AI – Supervised & Unsupervised Learning, Neural Networks, SVD, Clustering
+- ✅ Data Analytics & Visualization – Python, SQL, Tableau, Power BI, Pandas, Seaborn, Matplotlib
+- ✅ ETL & Automation – Azure Pipelines, Control-M, Dollar Universe, Splunk, ServiceNow
+- ✅ Cloud & Big Data – AWS, Azure, PySpark, Apache Spark
 
 In my current role, I have been working as a Command Centre Engineer (Systems Specialist/Analyst) at VanCity Savings Credit
 Union, where I focus on monitoring, automation, deployment, and troubleshooting within IT operations. My role involves
@@ -60,17 +60,19 @@ and data security.
   This project focuses on building a Music Recommendation System using collaborative filtering and content-based filtering techniques. It leverages user-song interaction data to generate personalized song recommendations.
 
   Key Features:
-  ✅ Collaborative Filtering: Uses user-based and item-based similarity to recommend songs based on listening history.
-  ✅ Content-Based Filtering: Applies TF-IDF vectorization and cosine similarity to analyze song metadata for better recommendations.
-  ✅ Hybrid Approach: Combines SVD (Singular Value Decomposition) and user-based filtering for optimized accuracy and personalization.
-  ✅ Performance Evaluation: Models are compared using Precision, Recall, RMSE, and F1-score to assess recommendation quality.
+  - ✅ Collaborative Filtering: Uses user-based and item-based similarity to recommend songs based on listening history.
+  - ✅ Content-Based Filtering: Applies TF-IDF vectorization and cosine similarity to analyze song metadata for better recommendations.
+  - ✅ Hybrid Approach: Combines SVD (Singular Value Decomposition) and user-based filtering for optimized accuracy and personalization.
+  - ✅ Performance Evaluation: Models are compared using Precision, Recall, RMSE, and F1-score to assess recommendation quality.
 
   Why This Matters:
   With the growing demand for personalized music experiences, this system helps users discover new songs aligned with their preferences. It can be scaled for real-world applications such as Spotify-like recommendation engines.
   
-  🔹 Technologies Used: Python, Pandas, NumPy, Scikit-learn, Surprise Library, NLTK, TF-IDF, Cosine Similarity
+  🔹 Technologies Used:
+  - Python, Pandas, NumPy, Scikit-learn, Surprise Library, NLTK, TF-IDF, Cosine Similarity
   
-  🚀 Outcome: A fully functional AI-driven music recommender that intelligently suggests songs based on user behavior and song attributes.
+  🚀 Outcome:
+  - A fully functional AI-driven music recommender that intelligently suggests songs based on user behavior and song attributes.
   
   Let me know if you want any refinements for your portfolio! 😊
 
