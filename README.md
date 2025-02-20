@@ -84,7 +84,7 @@ and data security.
 
 <div align="center">
     <img src="https://github.com/brnhaze/Portfolio/blob/main/Recommended%20Systems/Amazon%20Products/amaprod.jpg" 
-         alt="logo" width="300" height="100">
+         alt="logo" width="300" height="300">
 </div>
 
 - Description
