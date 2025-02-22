@@ -81,8 +81,10 @@ and data security.
 - Technologies Used:
     - Python
 - Files
-    - [.ipynb](https://github.com/brnhaze/Portfolio/blob/main/Recommended%20Systems/Music/Music_Recommendation_System.ipynb)
-    - [.html](https://github.com/brnhaze/Portfolio/blob/main/Recommended%20Systems/Music/Music_Recommendation_System.html)
+    - [Notebook (.ipynb)](https://github.com/brnhaze/Portfolio/blob/main/Recommended%20Systems/Music/Music_Recommendation_System.ipynb)
+    - [Document (.html)](https://github.com/brnhaze/Portfolio/blob/main/Recommended%20Systems/Music/Music_Recommendation_System.html)
+    - [PowerPoint](https://github.com/brnhaze/Portfolio/blob/main/Recommended%20Systems/Music/Music%20Recommendation%20System.pdf)
+      - Please contact me for presentation
 
 ### Amazon_Product_Recommended_System
 
@@ -113,8 +115,8 @@ and data security.
 - Technologies Used:
     - Python
 - Files
-    - [.ipynb](https://github.com/brnhaze/Portfolio/blob/main/Recommended%20Systems/Amazon%20Products/Recommendation_Systems_Learner_Notebook_Full_Code.ipynb)
-    - [.html](https://github.com/brnhaze/Portfolio/blob/main/Recommended%20Systems/Amazon%20Products/Amazon%20Products%20RecommendationSystem.html)
+    - [Notebook (.ipynb)](https://github.com/brnhaze/Portfolio/blob/main/Recommended%20Systems/Amazon%20Products/Recommendation_Systems_Learner_Notebook_Full_Code.ipynb)
+    - [Html (.html)](https://github.com/brnhaze/Portfolio/blob/main/Recommended%20Systems/Amazon%20Products/Amazon%20Products%20RecommendationSystem.html)
 
 ### Car_Price_Prediction
 
