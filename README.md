@@ -122,7 +122,7 @@ and data security.
 ### Cost_of_Living_&_Country_Ranking_Prediction
 
 <div align="center">
-    <img src="https://drive.google.com/file/d/1gwnyDWM7lyAkEID40rfnt6Y1jAh2am33/view" 
+    <img src="https://drive.google.com/file/d/1gwnyDWM7lyAkEID40rfnt6Y1jAh2am33/view?usp=sharing" 
          alt="logo" width="300" height="600">
 </div>
 
