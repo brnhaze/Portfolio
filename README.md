@@ -20,6 +20,10 @@ Explore my work in machine learning, predictive modeling, data visualization, an
   - [Excel Functions](#Excel_Functions)
 - [Education & Certifications](#Education)
 - [Cover Letter & Resume](#Resume)
+- <p align="left">
+    <img src="https://github.com/brnhaze/Portfolio/blob/main/mit.png" alt="logo" width="16" height="16">
+    <span style="vertical-align: middle; margin-left: 5px;">MIT e-portfolio</span>
+</p>
 - [Contact Information](#Contact)
 
 ## 🔹About-Me
