@@ -332,7 +332,7 @@ This report provides insights into our data and can be interacted with directly 
 
 ## MIT_e_portfolio
 <p align="left">
-    <img src="https://github.com/brnhaze/Portfolio/blob/main/mit.png" alt="logo" width="80" height="40">
+    <img src="https://github.com/brnhaze/Portfolio/blob/main/mit.png" alt="logo" width="120" height="40">
     <span style="vertical-align: middle; margin-left: 5px;"></span>
 </p>
 
