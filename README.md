@@ -119,10 +119,10 @@ and data security.
     - [Notebook (.ipynb)](https://github.com/brnhaze/Portfolio/blob/main/Recommended%20Systems/Amazon%20Products/Recommendation_Systems_Learner_Notebook_Full_Code.ipynb)
     - [Html (.html)](https://github.com/brnhaze/Portfolio/blob/main/Recommended%20Systems/Amazon%20Products/Amazon%20Products%20RecommendationSystem.html)
 
-###Cost_of_Living_&_Country_Ranking_Prediction
+### Cost_of_Living_&_Country_Ranking_Prediction
 
 <div align="center">
-    <img src="https://drive.google.com/drive/u/0/folders/1XBiD7PGU5_QdT1_YCqveGc-qX8DJ8qwf" 
+    <img src="https://drive.google.com/file/d/1gwnyDWM7lyAkEID40rfnt6Y1jAh2am33/view" 
          alt="logo" width="300" height="600">
 </div>
 
