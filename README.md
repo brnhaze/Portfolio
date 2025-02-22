@@ -11,6 +11,7 @@ Explore my work in machine learning, predictive modeling, data visualization, an
 - [Projects](#Projects)
   - [Music Recommended System](#Music_Recommended_System)
   - [Amazon Product Recommended System](#Amazon_Product_Recommended_System)
+  - [Cost of Living & Country Ranking Prediction](#Cost_of_Living_&_Country_Ranking_Prediction)
   - [Predicting Car Prices Using Linear Regression: A Machine Learning Approach with Data Preprocessing and EDA](#Car_Price_Prediction)
   - [News API](#News_API)
   - [IGN Video Game Ratings](#IGN_Video_Game_Ratings)
@@ -117,6 +118,34 @@ and data security.
 - Files
     - [Notebook (.ipynb)](https://github.com/brnhaze/Portfolio/blob/main/Recommended%20Systems/Amazon%20Products/Recommendation_Systems_Learner_Notebook_Full_Code.ipynb)
     - [Html (.html)](https://github.com/brnhaze/Portfolio/blob/main/Recommended%20Systems/Amazon%20Products/Amazon%20Products%20RecommendationSystem.html)
+
+###Cost_of_Living_&_Country_Ranking_Prediction
+
+<div align="center">
+    <img src="https://drive.google.com/file/d/1gwnyDWM7lyAkEID40rfnt6Y1jAh2am33/view?usp=drive_link" 
+         alt="logo" width="300" height="600">
+</div>
+
+- Description
+
+  This project explores predicting country rankings based on cost of living and other economic factors. Using supervised learning techniques, I trained a model to compare the original top 10 country rankings with the predicted rankings, analyzing shifts and feature importance.
+
+  📊 Key Insights:
+    - XGBoost Regressor was the best-performing algorithm.
+    - Feature Importance Analysis revealed key economic factors driving predictions.
+    - Some countries shifted in ranking, e.g., Belgium dropped from 3rd to 8th, showing that different variables influenced the final rankings.
+
+  🚀 Future Improvements:
+    - Fine-tuning hyperparameters for better accuracy.
+    - Exploring additional socioeconomic and environmental features.
+    - Integrating deep learning for more complex ranking relationships.
+
+- Technologies Used:
+  - Python (pandas, numpy, matplotlib & seaborn, XGBoost, scikit-learn)
+ 
+- Files
+  -   [Notebook (.ipynb)](https://drive.google.com/file/d/1DVw9o1emeTsjZ2Wf_Xckg39fMlHY-1Uq/view?usp=drive_link)
+  -   [Html (.html)](https://drive.google.com/file/d/1xJvw6j8dlGmypRWeBxhJQF82mGBb6fgY/view?usp=drive_link)
 
 ### Car_Price_Prediction
 
