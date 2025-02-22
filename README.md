@@ -327,7 +327,7 @@ This report provides insights into our data and can be interacted with directly 
 
 ## Resume
 
-[Cover Letter & Cover Letter](https://drive.google.com/file/d/10mp-NU4kfXfetaZUs86axshZOUwllSva/view?usp=sharing)
+[Cover Letter & Cover Letter](https://drive.google.com/file/d/18qXaQK1o_2UkEplO4AMw8Mmmw6UzZNlR/view?usp=sharing)
 
 
 ## Contact
