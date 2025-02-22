@@ -324,7 +324,8 @@ This report provides insights into our data and can be interacted with directly 
 
 ## Resume
 
-[Cover Letter & Cover Letter](https://drive.google.com/file/d/18qXaQK1o_2UkEplO4AMw8Mmmw6UzZNlR/view?usp=sharing)
+[Cover Letter & Cover Letter](https://www.linkedin.com/in/ashwinpal17/)
+  Please see LinkedIn profile and contact or make request through email from your professional organizations domain.
 
 ## MIT_e_portfolio
 <p align="left">
