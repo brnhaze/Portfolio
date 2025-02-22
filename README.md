@@ -77,8 +77,6 @@ and data security.
   
   🚀 Outcome:
   - A fully functional AI-driven music recommender that intelligently suggests songs based on user behavior and song attributes.
-  
-  Let me know if you want any refinements for your portfolio! 😊
 
 - Technologies Used:
     - Python
@@ -111,8 +109,6 @@ and data security.
   🔹 Technologies Used: Python, Pandas, NumPy, Scikit-learn, Surprise Library, TF-IDF, Cosine Similarity, SVD
   
   🚀 Outcome: A smart AI-driven product recommender that helps users find products they’ll love while improving business revenue.
-  
-  Would you like a detailed breakdown of the methodology used? 😊
 
 - Technologies Used:
     - Python
