@@ -122,8 +122,8 @@ and data security.
 ### Cost_of_Living_and_Country_Ranking_Prediction
 
 <div align="center">
-    <img src="https://drive.google.com/file/d/1gwnyDWM7lyAkEID40rfnt6Y1jAh2am33/view?usp=drive_link" 
-         alt="logo" width="300" height="600">
+    <img src="https://images.movehub.com/wp-content/uploads/2018/03/14162459/LC-22.png" 
+         alt="logo" width="600" height="300">
 </div>
 
 - Description
