@@ -11,7 +11,7 @@ Explore my work in machine learning, predictive modeling, data visualization, an
 - [Projects](#Projects)
   - [Music Recommended System](#Music_Recommended_System)
   - [Amazon Product Recommended System](#Amazon_Product_Recommended_System)
-  - [Cost of Living & Country Ranking Prediction](#Cost_of_Living_&_Country_Ranking_Prediction)
+  - [Cost of Living & Country Ranking Prediction](#Cost_of_Living_and_Country_Ranking_Prediction)
   - [Predicting Car Prices Using Linear Regression: A Machine Learning Approach with Data Preprocessing and EDA](#Car_Price_Prediction)
   - [News API](#News_API)
   - [IGN Video Game Ratings](#IGN_Video_Game_Ratings)
@@ -119,10 +119,10 @@ and data security.
     - [Notebook (.ipynb)](https://github.com/brnhaze/Portfolio/blob/main/Recommended%20Systems/Amazon%20Products/Recommendation_Systems_Learner_Notebook_Full_Code.ipynb)
     - [Html (.html)](https://github.com/brnhaze/Portfolio/blob/main/Recommended%20Systems/Amazon%20Products/Amazon%20Products%20RecommendationSystem.html)
 
-### Cost_of_Living_&_Country_Ranking_Prediction
+### Cost_of_Living_and_Country_Ranking_Prediction
 
 <div align="center">
-    <img src="https://drive.google.com/file/d/1gwnyDWM7lyAkEID40rfnt6Y1jAh2am33/view?usp=sharing" 
+    <img src="https://drive.google.com/file/d/1gwnyDWM7lyAkEID40rfnt6Y1jAh2am33/view?usp=drive_link" 
          alt="logo" width="300" height="600">
 </div>
 
