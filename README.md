@@ -131,11 +131,11 @@ and data security.
 - Project Categories
   - [Exploratory Data Analysis (EDA)](https://github.com/brnhaze/Portfolio/blob/main/DragonBall/1%20EDA.html)
   - [Unsupervised Learning](https://github.com/brnhaze/Portfolio/blob/main/DragonBall/2%20Unsupervised%20Learning.html)
-  - [Supervised Learning - Regression]
+  - Supervised Learning - Regression
     - [Supervised Learning Regression](https://github.com/brnhaze/Portfolio/blob/main/DragonBall/3%20Supervised%20Learning%20Regression.html)
     - [Supervised Learning Regression Lasso/Ridge](https://github.com/brnhaze/Portfolio/blob/main/DragonBall/4%20Supervised%20Learning%20Regression%20Lasso_Ridge.html)
     - [Supervised Learning Regression Continuous](https://github.com/brnhaze/Portfolio/blob/main/DragonBall/6%20Supervised%20Learning%20Regression%20Continuous.html)
-  - [Supervised Learning - Classification]
+  - Supervised Learning - Classification
     - [Supervised Learning Classification](https://github.com/brnhaze/Portfolio/blob/main/DragonBall/5%20Supervised%20Learning%20Classification.html)
     - [Supervised Learning Classification with Decision Trees, etc](https://github.com/brnhaze/Portfolio/blob/main/DragonBall/7%20Supervised%20Learning%20Classification%20with%20Decision%20Trees%20etc.html)
 
