@@ -120,7 +120,7 @@ and data security.
 ### Dragon_Ball_Z_Unsupervised_and_Supervised_Learning
 
 <div align="center">
-    <img src="" 
+    <img src="https://github.com/brnhaze/Portfolio/blob/main/DragonBall/dbz.jpg" 
          alt="logo" width="600" height="300">
 </div>
 
