@@ -12,6 +12,7 @@ Explore my work in machine learning, predictive modeling, data visualization, an
   - [Music Recommended System](#Music_Recommended_System)
   - [Amazon Product Recommended System](#Amazon_Product_Recommended_System)
   - [Cost of Living & Country Ranking Prediction](#Cost_of_Living_and_Country_Ranking_Prediction)
+  - [Dragon Ball Directory](#Dragon_Ball_Z_Unsupervised_and_Supervised_Learning)
   - [Predicting Car Prices Using Linear Regression: A Machine Learning Approach with Data Preprocessing and EDA](#Car_Price_Prediction)
   - [News API](#News_API)
   - [IGN Video Game Ratings](#IGN_Video_Game_Ratings)
@@ -115,6 +116,28 @@ and data security.
 - Files
     - [Notebook (.ipynb)](https://github.com/brnhaze/Portfolio/blob/main/Recommended%20Systems/Amazon%20Products/Recommendation_Systems_Learner_Notebook_Full_Code.ipynb)
     - [Html (.html)](https://github.com/brnhaze/Portfolio/blob/main/Recommended%20Systems/Amazon%20Products/Amazon%20Products%20RecommendationSystem.html)
+
+### Dragon_Ball_Z_Unsupervised_and_Supervised_Learning
+
+<div align="center">
+    <img src="" 
+         alt="logo" width="600" height="300">
+</div>
+
+- Description
+
+  This repository contains a collection of projects focused on various machine learning and deep learning techniques applied across different domains, including supervised learning, unsupervised learning, recommendation systems, and deep learning architectures. The projects explore feature engineering, model selection, hyperparameter tuning, and performance evaluation.
+
+- Project Categories
+  - [Exploratory Data Analysis (EDA)](https://github.com/brnhaze/Portfolio/blob/main/DragonBall/1%20EDA.html)
+  - [Unsupervised Learning](https://github.com/brnhaze/Portfolio/blob/main/DragonBall/2%20Unsupervised%20Learning.html)
+  - [Supervised Learning - Regression]
+    - [Supervised Learning Regression](https://github.com/brnhaze/Portfolio/blob/main/DragonBall/3%20Supervised%20Learning%20Regression.html)
+    - [Supervised Learning Regression Lasso/Ridge](https://github.com/brnhaze/Portfolio/blob/main/DragonBall/4%20Supervised%20Learning%20Regression%20Lasso_Ridge.html)
+    - [Supervised Learning Regression Continuous](https://github.com/brnhaze/Portfolio/blob/main/DragonBall/6%20Supervised%20Learning%20Regression%20Continuous.html)
+  - [Supervised Learning - Classification]
+    - [Supervised Learning Classification](https://github.com/brnhaze/Portfolio/blob/main/DragonBall/5%20Supervised%20Learning%20Classification.html)
+    - [Supervised Learning Classification with Decision Trees, etc](https://github.com/brnhaze/Portfolio/blob/main/DragonBall/7%20Supervised%20Learning%20Classification%20with%20Decision%20Trees%20etc.html)
 
 ### Cost_of_Living_and_Country_Ranking_Prediction
 
