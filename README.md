@@ -130,14 +130,24 @@ and data security.
 
 - Project Categories
   - [Exploratory Data Analysis (EDA)](https://github.com/brnhaze/Portfolio/blob/main/DragonBall/1%20EDA.html)
+    - Libraries & Tools: Pandas, NumPy, Matplotlib, Seaborn
+    - Techniques Used: Data cleaning and preprocessing, Handling missing values, Feature correlation analysis, and Data visualization (histograms, scatter plots, box plots, heatmaps)
   - [Unsupervised Learning](https://github.com/brnhaze/Portfolio/blob/main/DragonBall/2%20Unsupervised%20Learning.html)
+    - Libraries & Tools: Scikit-learn, Pandas, Matplotlib, Seaborn
+    - Techniques Used: Clustering: K-Means, Hierarchical Clustering, DBSCAN, Dimensionality Reduction: Principal Component Analysis (PCA), t-SNE, Silhouette Score & Elbow Method for optimal cluster selection
   - Supervised Learning - Regression
-    - [Supervised Learning Regression](https://github.com/brnhaze/Portfolio/blob/main/DragonBall/3%20Supervised%20Learning%20Regression.html)
-    - [Supervised Learning Regression Lasso/Ridge](https://github.com/brnhaze/Portfolio/blob/main/DragonBall/4%20Supervised%20Learning%20Regression%20Lasso_Ridge.html)
-    - [Supervised Learning Regression Continuous](https://github.com/brnhaze/Portfolio/blob/main/DragonBall/6%20Supervised%20Learning%20Regression%20Continuous.html)
+    - Libraries & Tools: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
+    - Techniques Used: Linear Regression, Ridge Regression, Lasso Regression, Decision Trees, Random Forest Regressor, Feature Selection & Multicollinearity Handling (VIF, P-Values), Performance Metrics: Root Mean Squared Error (RMSE), Mean Absolute Error (MAE), R² Score, and Hyperparameter Tuning (GridSearchCV)
+    - Notebooks    
+      - [Supervised Learning Regression](https://github.com/brnhaze/Portfolio/blob/main/DragonBall/3%20Supervised%20Learning%20Regression.html)
+      - [Supervised Learning Regression Lasso/Ridge](https://github.com/brnhaze/Portfolio/blob/main/DragonBall/4%20Supervised%20Learning%20Regression%20Lasso_Ridge.html)
+      - [Supervised Learning Regression Continuous](https://github.com/brnhaze/Portfolio/blob/main/DragonBall/6%20Supervised%20Learning%20Regression%20Continuous.html)
   - Supervised Learning - Classification
-    - [Supervised Learning Classification](https://github.com/brnhaze/Portfolio/blob/main/DragonBall/5%20Supervised%20Learning%20Classification.html)
-    - [Supervised Learning Classification with Decision Trees, etc](https://github.com/brnhaze/Portfolio/blob/main/DragonBall/7%20Supervised%20Learning%20Classification%20with%20Decision%20Trees%20etc.html)
+    - Libraries & Tools: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
+    - Techniques Used: Classification Models: Logistic Regression, Decision Trees, Random Forest, Gradient Boosting (XGBoost, AdaBoost), Support Vector Machine (SVM), Neural Networks, Feature Encoding: One-Hot Encoding, Label Encoding, Handling Class,, Imbalance: SMOTE (Synthetic Minority Over-sampling), Model Evaluation Metrics: Accuracy, Precision, Recall, F1-Score, ROC Curve, AUC Score, Hyperparameter Tuning (GridSearchCV, RandomizedSearchCV)
+    - Notebooks
+      - [Supervised Learning Classification](https://github.com/brnhaze/Portfolio/blob/main/DragonBall/5%20Supervised%20Learning%20Classification.html)
+      - [Supervised Learning Classification with Decision Trees, etc](https://github.com/brnhaze/Portfolio/blob/main/DragonBall/7%20Supervised%20Learning%20Classification%20with%20Decision%20Trees%20etc.html)
 
 ### Cost_of_Living_and_Country_Ranking_Prediction
 
