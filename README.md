@@ -9,6 +9,7 @@ Explore my work in machine learning, predictive modeling, data visualization, an
 ## Table of Contents
 - [About](#About-Me)
 - [Projects](#Projects)
+  - [Music Genre Classification with Deep Learning](#Music_Genre_Classification_with_Deep_Learning)
   - [Music Recommended System](#Music_Recommended_System)
   - [Amazon Product Recommended System](#Amazon_Product_Recommended_System)
   - [Cost of Living & Country Ranking Prediction](#Cost_of_Living_and_Country_Ranking_Prediction)
@@ -52,6 +53,38 @@ Administration (CISA) diploma from the British Columbia Institute of Technology 
 and data security.
 
 ## Projects
+
+### Music_Genre_Classification_with_Deep_Learning
+
+<div align="center">
+    <img src="https://github.com/brnhaze/Portfolio/blob/main/Music%20Genre/musicgenre.jpg" 
+         alt="logo" width="400" height="250">
+</div>
+
+- Description
+  A machine learning project that classifies music genres using MFCC features and deep learning models, comparing Artificial Neural Networks (ANNs) and Convolutional Neural Networks (CNNs) for optimal accuracy.
+
+Key Features
+  - Feature Extraction: Utilizes MFCC (Mel-Frequency Cepstral Coefficients) to extract key sound characteristics.
+  - Multiple Model Architectures: Implements ANNs (Dense Networks) and CNNs (1D Convolutional Networks) for performance comparison.
+  - Performance Evaluation: Uses confusion matrices, classification reports, and accuracy metrics to rank models.
+  - Hyperparameter Optimization: Includes dropout, batch normalization, learning rate adjustments to improve generalization.
+  - Data Processing & Augmentation: Addresses class imbalance and misclassification through preprocessing techniques.
+
+Technologies Used
+  - Python (Data processing & modeling)
+  - TensorFlow/Keras (Deep Learning framework)
+  - Librosa (Audio feature extraction)
+  - Matplotlib & Seaborn (Data visualization)
+  - Scikit-learn (Metrics & evaluation)
+
+Files
+  - [.html Notebook](https://github.com/brnhaze/Portfolio/blob/main/Music%20Genre/Music%20Genre%20Classification%20using%20Deep%20Learning.html)
+
+Outcome
+  - Best ANN model achieved 0.62 accuracy, outperforming CNN models.
+  - CNNs showed promise but required deeper architectures & fine-tuning.
+  - Identified challenges with genre misclassification, leading to potential improvements with CNN+LSTM hybrid models.
 
 ### Music_Recommended_System
 
