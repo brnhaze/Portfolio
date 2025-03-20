@@ -9,6 +9,7 @@ Explore my work in machine learning, predictive modeling, data visualization, an
 ## Table of Contents
 - [About](#About-Me)
 - [Projects](#Projects)
+  - [Neural Network (Deep Learning) Predicting Liver Disease Using Machine Learning A Data Driven Approach in Binary Classification](#Neural_Network_Predicting_Liver_Disease_Using_Machine_Learning_A_Data_Driven_Approach_in_Binary_Classification)
   - [Music Genre Classification with Deep Learning](#Music_Genre_Classification_with_Deep_Learning)
   - [Music Recommended System](#Music_Recommended_System)
   - [Amazon Product Recommended System](#Amazon_Product_Recommended_System)
@@ -54,6 +55,35 @@ and data security.
 
 ## Projects
 
+### Neural_Network_Predicting_Liver_Disease_Using_Machine_Learning_A_Data_Driven_Approach_in_Binary_Classification
+
+<div align="center">
+    <img src="https://github.com/brnhaze/Portfolio/blob/main/Liver%20Disease/liver.jpeg" 
+         alt="logo" width="400" height="250">
+</div>
+
+Description
+  This project leverages machine learning techniques to predict the presence of liver disease using a binary classification approach. Multiple models were trained and evaluated to determine the most effective approach for accurate disease detection.
+
+Key Features
+  - Data Processing & Feature Engineering: Preprocessing of liver disease datasets, handling missing values, scaling, and feature selection.
+  - Model Development: Comparison of multiple classification models, including Neural Networks, Decision Trees, and Ensemble Learning.
+  - Hyperparameter Optimization: Utilized GridSearchCV, Keras Tuner, and other optimization techniques to fine-tune model performance.
+  - Evaluation Metrics: Performance assessed using confusion matrices, classification reports, and AUC-ROC curves.
+  - Imbalanced Data Handling: Applied SMOTE and other resampling techniques to address class imbalance.
+  - Deep Learning Integration: Experimented with ANN-based architectures, optimizing layer configurations for improved accuracy.
+
+Technologies Used
+  - Python (Data processing & modeling)
+  - TensorFlow/Keras (Deep learning framework)
+  - Scikit-learn (Metrics & evaluation)
+  - Seaborn & Matplotlib (Data visualization)
+  - SMOTE (Imbalanced data handling
+  - GridSearchCV & Hyperparameter Tuning (Optimization)
+
+Files
+  - [.html notebook](https://github.com/brnhaze/Portfolio/blob/main/Liver%20Disease/Predicting_Liver_Disease_Using_Machine_Learning_A_Data_Driven_Approach_in_Binary_Classification.html)
+
 ### Music_Genre_Classification_with_Deep_Learning
 
 <div align="center">
@@ -61,7 +91,7 @@ and data security.
          alt="logo" width="400" height="250">
 </div>
 
-- Description
+Description
   A machine learning project that classifies music genres using MFCC features and deep learning models, comparing Artificial Neural Networks (ANNs) and Convolutional Neural Networks (CNNs) for optimal accuracy.
 
 Key Features
@@ -93,17 +123,17 @@ Outcome
          alt="logo" width="400" height="250">
 </div>
 
-- Description
+Description
 
   This project focuses on building a Music Recommendation System using collaborative filtering and content-based filtering techniques. It leverages user-song interaction data to generate personalized song recommendations.
 
-  Key Features:
+Key Features:
   - ✅ Collaborative Filtering: Uses user-based and item-based similarity to recommend songs based on listening history.
   - ✅ Content-Based Filtering: Applies TF-IDF vectorization and cosine similarity to analyze song metadata for better recommendations.
   - ✅ Hybrid Approach: Combines SVD (Singular Value Decomposition) and user-based filtering for optimized accuracy and personalization.
   - ✅ Performance Evaluation: Models are compared using Precision, Recall, RMSE, and F1-score to assess recommendation quality.
 
-  Why This Matters:
+Why This Matters:
   With the growing demand for personalized music experiences, this system helps users discover new songs aligned with their preferences. It can be scaled for real-world applications such as Spotify-like recommendation engines.
   
   🔹 Technologies Used:
@@ -112,9 +142,9 @@ Outcome
   🚀 Outcome:
   - A fully functional AI-driven music recommender that intelligently suggests songs based on user behavior and song attributes.
 
-- Technologies Used:
+Technologies Used:
     - Python
-- Files
+Files
     - [Document (.html)](https://github.com/brnhaze/Portfolio/blob/main/Recommended%20Systems/Music/Music_Recommendation_System.html)
     - [PowerPoint](https://github.com/brnhaze/Portfolio/blob/main/Recommended%20Systems/Music/Music%20Recommendation%20System.pdf)
       - Please contact me for presentation
@@ -126,26 +156,26 @@ Outcome
          alt="logo" width="300" height="300">
 </div>
 
-- Description
+Description
 
   This project focuses on building an Amazon Product Recommendation System using advanced machine learning and data science techniques. The goal is to enhance the shopping experience by providing personalized product recommendations based on user behavior and product interactions.
 
-  Key Features:
+Key Features:
   - ✅ Collaborative Filtering: Recommends products based on user purchase history and preferences.
   - ✅ Content-Based Filtering: Suggests similar items by analyzing product descriptions, categories, and features.
   - ✅ Hybrid Approach: Combines collaborative and content-based filtering for more accurate recommendations.
   - ✅ Performance Optimization: Evaluates models using Precision, Recall, RMSE, and F1-score to improve accuracy.
   
-  Why This Matters?
+Why This Matters?
   In a fast-growing e-commerce environment, personalized recommendations drive better customer engagement and increased sales. This system mimics Amazon’s recommendation engine to suggest relevant products efficiently.
   
   🔹 Technologies Used: Python, Pandas, NumPy, Scikit-learn, Surprise Library, TF-IDF, Cosine Similarity, SVD
   
   🚀 Outcome: A smart AI-driven product recommender that helps users find products they’ll love while improving business revenue.
 
-- Technologies Used:
+Technologies Used:
     - Python
-- Files
+Files
     - [Html (.html)](https://github.com/brnhaze/Portfolio/blob/main/Recommended%20Systems/Amazon%20Products/Amazon%20Products%20RecommendationSystem.html)
 
 ### Dragon_Ball_Z_Unsupervised_and_Supervised_Learning
@@ -155,11 +185,11 @@ Outcome
          alt="logo" width="600" height="300">
 </div>
 
-- Description
+Description
 
   This repository contains a collection of projects focused on various machine learning and deep learning techniques applied across different domains, including supervised learning, unsupervised learning, recommendation systems, and deep learning architectures. The projects explore feature engineering, model selection, hyperparameter tuning, and performance evaluation.
 
-- Project Categories
+Project Categories
   - [Exploratory Data Analysis (EDA)](https://github.com/brnhaze/Portfolio/blob/main/DragonBall/1%20EDA.html)
     - Libraries & Tools: Pandas, NumPy, Matplotlib, Seaborn
     - Techniques Used: Data cleaning and preprocessing, Handling missing values, Feature correlation analysis, and Data visualization (histograms, scatter plots, box plots, heatmaps)
@@ -187,7 +217,7 @@ Outcome
          alt="logo" width="600" height="300">
 </div>
 
-- Description
+Description
 
   This project explores predicting country rankings based on cost of living and other economic factors. Using supervised learning techniques, I trained a model to compare the original top 10 country rankings with the predicted rankings, analyzing shifts and feature importance.
 
@@ -201,10 +231,10 @@ Outcome
     - Exploring additional socioeconomic and environmental features.
     - Integrating deep learning for more complex ranking relationships.
 
-- Technologies Used:
+Technologies Used:
   - Python (pandas, numpy, matplotlib & seaborn, XGBoost, scikit-learn)
  
-- Files
+  Files
   -   [Html (.html)](https://drive.google.com/file/d/1xJvw6j8dlGmypRWeBxhJQF82mGBb6fgY/view?usp=drive_link)
 
 ### Car_Price_Prediction
@@ -213,13 +243,13 @@ Outcome
     <img src="https://github.com/brnhaze/Portfolio/blob/main/Car%20Price%20Prediction/car.jpeg" alt="logo">
 </div>
 
-- Description
+Description
 
   In this project, I developed a machine learning model to predict car prices using a dataset from Kaggle. The process began with data cleaning and preprocessing, where I standardized column names, handled missing values, and converted categorical features into numerical representations. I then conducted exploratory data analysis to understand the relationships between the features and the target variable, MSRP, and normalized skewed distributions using logarithmic transformations. Feature engineering was an essential part of the project, where I created new features like car age and encoded categorical variables, adding interaction terms to capture complex relationships in the data. I implemented a baseline Linear Regression model, which I further refined using regularization techniques to prevent overfitting. The model was validated using Root Mean Square Error (RMSE) on training and validation datasets, achieving a competitive score that indicated strong predictive power and generalization capability. The final model provided accurate price predictions, identifying key factors such as engine specifications, vehicle size, and fuel type that influence car prices. This project demonstrated the practical application of data science techniques in the automotive industry, offering insights that could be used for pricing strategies and market analysis. The complete project can be viewed [here](link to your GitHub repository).
 
-- Technologies Used:
+Technologies Used:
     - Python
-- Files
+Files
     - [.ipynb](https://github.com/brnhaze/Portfolio/blob/main/Car%20Price%20Prediction/1%20Project%20Plan.ipynb)
     - [Raw Data.csv](https://github.com/brnhaze/Portfolio/blob/main/Car%20Price%20Prediction/data.csv)
 
@@ -229,14 +259,14 @@ Outcome
     <img src="https://github.com/brnhaze/Portfolio/blob/main/News%20API/newsapi.jpg" alt="logo">
 </div>
 
-- Description
+Description
 
   I created this project to demonstrate my proficiency in data extraction, data analysis, and sentiment analysis using APIs, data manipulation libraries, and Natural Language Processing (NLP) techniques. By integrating the News API, I was able to gather real-time data about a trending topic, perform in-depth analysis, and derive insights, which are crucial skills for a Data Analyst role.
 
-- Technologies Used:
+Technologies Used:
   - Python
 
-- Files
+Files
   - [API (.ipynb)](https://github.com/brnhaze/Portfolio/blob/main/News%20API/1%20API.ipynb)
   - [Articles (.ipynb)](https://github.com/brnhaze/Portfolio/blob/main/News%20API/2%20Articles.ipynb)
   - [articles.csv](https://github.com/brnhaze/Portfolio/blob/main/News%20API/articles.csv)
@@ -247,11 +277,11 @@ Outcome
     <img src="https://github.com/brnhaze/Portfolio/blob/main/IGN%20VIdeo%20Game%20Rarings/Images/logo.jpg" alt="logo">
 </div>
 
-- Description:
+Description:
 
   The "IGN Video Game Ratings" project aims to analyze and visualize video game ratings data sourced from IGN (Imagine Games Network), a prominent video game and entertainment media website. The dataset contains information on various aspects of video games, including titles, scores, score phrases, platforms, genres, and release dates
 
-- Technologies Used:
+Technologies Used:
   - SQL
   - Python
   - Tableau
@@ -275,7 +305,7 @@ Outcome
 This report provides insights into our data and can be interacted with directly in the Power BI service.
 
 
-- Files
+Files
   - SQL
     - [Original File (csv)](https://github.com/brnhaze/Portfolio/blob/main/IGN%20VIdeo%20Game%20Rarings/Original%20File/game_ratings.csv)
     - [Create Table](https://github.com/brnhaze/Portfolio/blob/main/IGN%20VIdeo%20Game%20Rarings/SQL/1%20create%20tables.sql)
@@ -298,19 +328,19 @@ This report provides insights into our data and can be interacted with directly 
     <img src="https://github.com/brnhaze/Portfolio/blob/main/Disney_Movies/Cleaned/Images/logo.jpg" alt="logo">
 </div>
 
-- Title: QA
+Title: QA
   
-- Description:
+Description:
 
   I have created this repository for the purpose of showcasing my data profiling, data validation, and data cleansing; and quality assurance processes using Excel, Python, and SQL.
   
-- Technologies Used:
+Technologies Used:
   - Excel
   - SQL
   - Python
   - Tableau
 
-- Files: 
+Files: 
   - Excel
     - [Walkthrough](https://github.com/brnhaze/Portfolio/blob/main/Disney_Movies/Cleaned/Excel/Cleaning_Excel.md)
     - [Excel Uncleaned (csv)](https://github.com/brnhaze/Portfolio/blob/main/Disney_Movies/Uncleaned/Disney_movies.csv)
@@ -331,9 +361,9 @@ This report provides insights into our data and can be interacted with directly 
 
 ### Capstone
 
-- Title: NFL Penalty Analysis
+Title: NFL Penalty Analysis
   
-- Description:
+Description:
 
   Lighthouse Labs Capstone Project
 
@@ -350,7 +380,7 @@ This report provides insights into our data and can be interacted with directly 
 - [Read Me](https://github.com/brnhaze/capstone/blob/main/README.md)
 - [Repository Link](https://github.com/brnhaze/capstone) 
 
-- Technologies Used:
+Technologies Used:
   - Kaggle
   - Excel
   - PostgreSQL
@@ -363,11 +393,11 @@ This report provides insights into our data and can be interacted with directly 
     <img src="https://github.com/brnhaze/Portfolio/blob/main/Excel/excel_log.jpg" alt="logo">
 </div>
 
-- Description:
+Description:
 
   Excel Functions is a curated compilation showcasing my proficiency in leveraging Excel's vast array of functions to streamline data management and analysis
 
-- Files:
+Files:
   - [Walkthrough](https://github.com/brnhaze/Portfolio/blob/main/Excel/walkthrough.md)
   - [(.xlsx file)](https://github.com/brnhaze/Portfolio/blob/main/Excel/Charts.xlsx)
 
