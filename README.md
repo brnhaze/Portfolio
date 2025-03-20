@@ -9,8 +9,11 @@ Explore my work in machine learning, predictive modeling, data visualization, an
 ## Table of Contents
 - [About](#About-Me)
 - [Projects](#Projects)
+  - [Music Genre Classification with Deep Learning](#Music_Genre_Classification_with_Deep_Learning)
   - [Music Recommended System](#Music_Recommended_System)
   - [Amazon Product Recommended System](#Amazon_Product_Recommended_System)
+  - [Cost of Living & Country Ranking Prediction](#Cost_of_Living_and_Country_Ranking_Prediction)
+  - [Dragon Ball Directory](#Dragon_Ball_Z_Unsupervised_and_Supervised_Learning)
   - [Predicting Car Prices Using Linear Regression: A Machine Learning Approach with Data Preprocessing and EDA](#Car_Price_Prediction)
   - [News API](#News_API)
   - [IGN Video Game Ratings](#IGN_Video_Game_Ratings)
@@ -19,6 +22,7 @@ Explore my work in machine learning, predictive modeling, data visualization, an
   - [Excel Functions](#Excel_Functions)
 - [Education & Certifications](#Education)
 - [Cover Letter & Resume](#Resume)
+- [MIT e-portfolio](#MIT_e_portfolio)
 - [Contact Information](#Contact)
 
 ## 🔹About-Me
@@ -50,6 +54,38 @@ and data security.
 
 ## Projects
 
+### Music_Genre_Classification_with_Deep_Learning
+
+<div align="center">
+    <img src="https://github.com/brnhaze/Portfolio/blob/main/Music%20Genre/musicgenre.jpg" 
+         alt="logo" width="400" height="250">
+</div>
+
+- Description
+  A machine learning project that classifies music genres using MFCC features and deep learning models, comparing Artificial Neural Networks (ANNs) and Convolutional Neural Networks (CNNs) for optimal accuracy.
+
+Key Features
+  - Feature Extraction: Utilizes MFCC (Mel-Frequency Cepstral Coefficients) to extract key sound characteristics.
+  - Multiple Model Architectures: Implements ANNs (Dense Networks) and CNNs (1D Convolutional Networks) for performance comparison.
+  - Performance Evaluation: Uses confusion matrices, classification reports, and accuracy metrics to rank models.
+  - Hyperparameter Optimization: Includes dropout, batch normalization, learning rate adjustments to improve generalization.
+  - Data Processing & Augmentation: Addresses class imbalance and misclassification through preprocessing techniques.
+
+Technologies Used
+  - Python (Data processing & modeling)
+  - TensorFlow/Keras (Deep Learning framework)
+  - Librosa (Audio feature extraction)
+  - Matplotlib & Seaborn (Data visualization)
+  - Scikit-learn (Metrics & evaluation)
+
+Files
+  - [.html Notebook](https://github.com/brnhaze/Portfolio/blob/main/Music%20Genre/Music%20Genre%20Classification%20using%20Deep%20Learning.html)
+
+Outcome
+  - Best ANN model achieved 0.62 accuracy, outperforming CNN models.
+  - CNNs showed promise but required deeper architectures & fine-tuning.
+  - Identified challenges with genre misclassification, leading to potential improvements with CNN+LSTM hybrid models.
+
 ### Music_Recommended_System
 
 <div align="center">
@@ -75,8 +111,6 @@ and data security.
   
   🚀 Outcome:
   - A fully functional AI-driven music recommender that intelligently suggests songs based on user behavior and song attributes.
-  
-  Let me know if you want any refinements for your portfolio! 😊
 
 - Technologies Used:
     - Python
@@ -109,14 +143,72 @@ and data security.
   🔹 Technologies Used: Python, Pandas, NumPy, Scikit-learn, Surprise Library, TF-IDF, Cosine Similarity, SVD
   
   🚀 Outcome: A smart AI-driven product recommender that helps users find products they’ll love while improving business revenue.
-  
-  Would you like a detailed breakdown of the methodology used? 😊
 
 - Technologies Used:
     - Python
 - Files
     - [Notebook (.ipynb)](https://github.com/brnhaze/Portfolio/blob/main/Recommended%20Systems/Amazon%20Products/Recommendation_Systems_Learner_Notebook_Full_Code.ipynb)
     - [Html (.html)](https://github.com/brnhaze/Portfolio/blob/main/Recommended%20Systems/Amazon%20Products/Amazon%20Products%20RecommendationSystem.html)
+
+### Dragon_Ball_Z_Unsupervised_and_Supervised_Learning
+
+<div align="center">
+    <img src="https://github.com/brnhaze/Portfolio/blob/main/DragonBall/dbz.jpg" 
+         alt="logo" width="600" height="300">
+</div>
+
+- Description
+
+  This repository contains a collection of projects focused on various machine learning and deep learning techniques applied across different domains, including supervised learning, unsupervised learning, recommendation systems, and deep learning architectures. The projects explore feature engineering, model selection, hyperparameter tuning, and performance evaluation.
+
+- Project Categories
+  - [Exploratory Data Analysis (EDA)](https://github.com/brnhaze/Portfolio/blob/main/DragonBall/1%20EDA.html)
+    - Libraries & Tools: Pandas, NumPy, Matplotlib, Seaborn
+    - Techniques Used: Data cleaning and preprocessing, Handling missing values, Feature correlation analysis, and Data visualization (histograms, scatter plots, box plots, heatmaps)
+  - [Unsupervised Learning](https://github.com/brnhaze/Portfolio/blob/main/DragonBall/2%20Unsupervised%20Learning.html)
+    - Libraries & Tools: Scikit-learn, Pandas, Matplotlib, Seaborn
+    - Techniques Used: Clustering: K-Means, Hierarchical Clustering, DBSCAN, Dimensionality Reduction: Principal Component Analysis (PCA), t-SNE, Silhouette Score & Elbow Method for optimal cluster selection
+  - Supervised Learning - Regression
+    - Libraries & Tools: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
+    - Techniques Used: Linear Regression, Ridge Regression, Lasso Regression, Decision Trees, Random Forest Regressor, Feature Selection & Multicollinearity Handling (VIF, P-Values), Performance Metrics: Root Mean Squared Error (RMSE), Mean Absolute Error (MAE), R² Score, and Hyperparameter Tuning (GridSearchCV)
+    - Notebooks (.html)
+      - [Supervised Learning Regression](https://github.com/brnhaze/Portfolio/blob/main/DragonBall/3%20Supervised%20Learning%20Regression.html)
+      - [Supervised Learning Regression Lasso/Ridge](https://github.com/brnhaze/Portfolio/blob/main/DragonBall/4%20Supervised%20Learning%20Regression%20Lasso_Ridge.html)
+      - [Supervised Learning Regression Continuous](https://github.com/brnhaze/Portfolio/blob/main/DragonBall/6%20Supervised%20Learning%20Regression%20Continuous.html)
+  - Supervised Learning - Classification
+    - Libraries & Tools: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
+    - Techniques Used: Classification Models: Logistic Regression, Decision Trees, Random Forest, Gradient Boosting (XGBoost, AdaBoost), Support Vector Machine (SVM), Neural Networks, Feature Encoding: One-Hot Encoding, Label Encoding, Handling Class,, Imbalance: SMOTE (Synthetic Minority Over-sampling), Model Evaluation Metrics: Accuracy, Precision, Recall, F1-Score, ROC Curve, AUC Score, Hyperparameter Tuning (GridSearchCV, RandomizedSearchCV)
+    - Notebooks (.html)
+      - [Supervised Learning Classification](https://github.com/brnhaze/Portfolio/blob/main/DragonBall/5%20Supervised%20Learning%20Classification.html)
+      - [Supervised Learning Classification with Decision Trees, etc](https://github.com/brnhaze/Portfolio/blob/main/DragonBall/7%20Supervised%20Learning%20Classification%20with%20Decision%20Trees%20etc.html)
+
+### Cost_of_Living_and_Country_Ranking_Prediction
+
+<div align="center">
+    <img src="https://images.movehub.com/wp-content/uploads/2018/03/14162459/LC-22.png" 
+         alt="logo" width="600" height="300">
+</div>
+
+- Description
+
+  This project explores predicting country rankings based on cost of living and other economic factors. Using supervised learning techniques, I trained a model to compare the original top 10 country rankings with the predicted rankings, analyzing shifts and feature importance.
+
+  📊 Key Insights:
+    - XGBoost Regressor was the best-performing algorithm.
+    - Feature Importance Analysis revealed key economic factors driving predictions.
+    - Some countries shifted in ranking, e.g., Belgium dropped from 3rd to 8th, showing that different variables influenced the final rankings.
+
+  🚀 Future Improvements:
+    - Fine-tuning hyperparameters for better accuracy.
+    - Exploring additional socioeconomic and environmental features.
+    - Integrating deep learning for more complex ranking relationships.
+
+- Technologies Used:
+  - Python (pandas, numpy, matplotlib & seaborn, XGBoost, scikit-learn)
+ 
+- Files
+  -   [Notebook (.ipynb)](https://drive.google.com/file/d/1DVw9o1emeTsjZ2Wf_Xckg39fMlHY-1Uq/view?usp=drive_link)
+  -   [Html (.html)](https://drive.google.com/file/d/1xJvw6j8dlGmypRWeBxhJQF82mGBb6fgY/view?usp=drive_link)
 
 ### Car_Price_Prediction
 
@@ -298,8 +390,14 @@ This report provides insights into our data and can be interacted with directly 
 
 ## Resume
 
-[Cover Letter & Cover Letter](https://drive.google.com/file/d/10mp-NU4kfXfetaZUs86axshZOUwllSva/view?usp=sharing)
+[Cover Letter & Cover Letter](https://www.linkedin.com/in/ashwinpal17/)
+- Please see LinkedIn profile and contact or make request through email from your professional organizations domain.
 
+## MIT_e_portfolio
+<p align="left">
+    <img src="https://github.com/brnhaze/Portfolio/blob/main/mit.png" alt="logo" width="120" height="40">
+    <span style="vertical-align: middle; margin-left: 5px;"></span>
+</p>
 
 ## Contact
 
