@@ -2,8 +2,8 @@
 
 <table>
   <tr>
-    <td width="170">
-      <img src="https://raw.githubusercontent.com/brnhaze/Portfolio/main/portfolio_image.jpg" alt="Ashwin Profile Picture" width="150"/>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/brnhaze/Portfolio/main/portfolio_image.jpg" alt="Ashwin Profile Picture" width="120"/>
     </td>
     <td>
       <h3>Ashwin</h3>
