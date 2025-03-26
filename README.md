@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="170">
-      <img src="https://github.com/brnhaze/Portfolio/blob/main/your-photo.jpg" alt="Ashwin Profile Picture" width="150"/>
+      <img src="[https://github.com/brnhaze/Portfolio/blob/main/your-photo.jpg](https://github.com/brnhaze/Portfolio/blob/main/portfolio_image.jpg)" alt="Ashwin Profile Picture" width="150"/>
     </td>
     <td>
       <h3>Ashwin</h3>
