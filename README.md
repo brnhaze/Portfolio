@@ -29,7 +29,7 @@ Welcome to my GitHub Portfolio—a collection of end-to-end data science project
 ## 🚀 Featured Projects
 
 ### [🎯 Liver Disease Prediction (Deep Learning)](https://github.com/brnhaze/Portfolio/blob/main/Liver%20Disease/Predicting_Liver_Disease_Using_Machine_Learning_A_Data_Driven_Approach_in_Binary_Classification.html)
-Uses neural networks and ensemble learning to predict liver disease in a binary classification setting.
+Uses neural networks and ensemble models to predict liver disease. Applied TensorFlow, Keras, XGBoost, and LightGBM, with preprocessing and EDA done using Pandas, NumPy, and Seaborn.
 
 ### [🎵 Music Genre Classification](https://github.com/brnhaze/Portfolio/blob/main/Music%20Genre/Music%20Genre%20Classification%20using%20Deep%20Learning.html)
 Compares ANN and CNN models using MFCC audio features to classify music genres.
@@ -40,7 +40,7 @@ Collaborative + content-based hybrid recommender system to suggest personalized 
 ### [🛍️ Amazon Product Recommendation System](https://github.com/brnhaze/Portfolio/blob/main/Recommended%20Systems/Amazon%20Products/Amazon%20Products%20RecommendationSystem.html)
 Builds an intelligent system that mimics Amazon’s recommendation logic.
 
-### [🌍 Country Cost of Living & Ranking Prediction](https://drive.google.com/file/d/1xJvw6j8dlGmypRWeBxhJQF82mGBb6fgY/view?usp=drive_link)
+### [🌍 Country Cost of Living & Ranking Prediction](https://github.com/brnhaze/Portfolio/blob/main/Cost%20of%20Living/DS_SupervisedLearning_Regression_Decision_etc_Cost_of_Living_Comparison.html)
 XGBoost regression project predicting global rankings based on economic factors.
 
 ### [🚗 Car Price Prediction](https://github.com/brnhaze/Portfolio/blob/main/Car%20Price%20Prediction/1%20Project%20Plan.ipynb)
