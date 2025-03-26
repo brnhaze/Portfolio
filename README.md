@@ -1,22 +1,18 @@
 # Hi 👋, I'm Ashwin
 
-<table>
-  <tr>
-    <td valign="top">
-      <img src="https://raw.githubusercontent.com/brnhaze/Portfolio/main/portfolio_image.jpg" alt="Ashwin Profile Picture" width="120"/>
-    </td>
-    <td>
-      <h3>Ashwin</h3>
-      <p><strong>Data Science | Machine Learning | Analytics</strong></p>
-      <p>📍 Canada | 💼 Open to Work</p>
-      <p>
-        <a href="mailto:ashwinpraneelpal@hotmail.com">📧 Email</a> |
-        <a href="https://www.linkedin.com/in/ashwinpal17/">🔗 LinkedIn</a> |
-        <a href="https://github.com/brnhaze/Portfolio/blob/main/README.md">💻 GitHub</a>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/brnhaze/Portfolio/main/portfolio_image.jpg" alt="Ashwin Profile Picture" width="120" style="border-radius: 10px; margin-right: 20px;" align="left">
+</p>
+
+<h3>Ashwin</h3>
+<p><strong>Data Science | Machine Learning | Analytics</strong></p>
+<p>📍 Canada &nbsp; | &nbsp; 💼 Open to Work</p>
+<p>
+  <a href="mailto:ashwinpraneelpal@hotmail.com">📧 Email</a> |
+  <a href="https://www.linkedin.com/in/ashwinpal17/">🔗 LinkedIn</a> |
+  <a href="https://github.com/brnhaze">💻 GitHub</a>
+</p>
+<br clear="left"/>
 
 **Passionate about Data Science, Analytics, and using AI to drive smarter, data-driven decisions.**
 
