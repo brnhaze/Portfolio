@@ -1,5 +1,23 @@
 # Hi 👋, I'm Ashwin
 
+<table>
+  <tr>
+    <td width="170">
+      <img src="https://github.com/brnhaze/Portfolio/blob/main/your-photo.jpg" alt="Ashwin Profile Picture" width="150"/>
+    </td>
+    <td>
+      <h3>Ashwin</h3>
+      <p><strong>Data Science | Machine Learning | Analytics</strong></p>
+      <p>📍 Canada | 💼 Open to Work</p>
+      <p>
+        <a href="mailto:ashwinpraneelpal@hotmail.com">📧 Email</a> |
+        <a href="https://www.linkedin.com/in/ashwinpal17/">🔗 LinkedIn</a> |
+        <a href="https://github.com/brnhaze">💻 GitHub</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 **Passionate about Data Science, Analytics, and using AI to drive smarter, data-driven decisions.**
 
 Welcome to my GitHub Portfolio—a collection of end-to-end data science projects, each showcasing my skills in data wrangling, machine learning, deep learning, and visualization using tools like Python, SQL, Power BI, and Tableau.
