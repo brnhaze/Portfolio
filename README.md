@@ -10,7 +10,7 @@
 <p>
   <a href="mailto:ashwinpraneelpal@hotmail.com">📧 Email</a> |
   <a href="https://www.linkedin.com/in/ashwinpal17/">🔗 LinkedIn</a> |
-  <a href="https://github.com/brnhaze">💻 GitHub</a>
+  <a href="https://github.com/brnhaze/Portfolio/blob/main/README.md">💻 GitHub</a>
 </p>
 <br clear="left"/>
 
@@ -22,7 +22,7 @@ Welcome to my GitHub Portfolio—a collection of end-to-end data science project
 
 ## 📚 Table of Contents
 
-[Projects](#-featured-projects) • [Skills & Tools](#-skills--tools) • [Education](#-education) • [Contact](#-lets-connect)
+[Projects](#-featured-projects) • [Skills & Tools](#-skills--tools) • [Work Experience](#-work-experience) • [Education](#-education) • [Contact](#-lets-connect)
 
 ---
 
@@ -67,6 +67,18 @@ Analyzes NFL penalties by player position using PostgreSQL and Tableau.
 - **Cloud & Big Data**: AWS, Azure, PySpark, Apache Spark
 - **ETL & Monitoring**: Azure Pipelines, Control-M, Splunk, ServiceNow
 - **Machine Learning**: Classification, Regression, Clustering, Neural Networks, Recommender Systems
+
+---
+
+## 💼 Work Experience
+
+### **Command Centre Engineer (Systems Specialist/Analyst)**  
+**VanCity Savings Credit Union** | *May 2022 – Present*  
+- Monitor, support, and maintain IT systems, ensuring uptime and operational continuity.
+- Utilize tools like Splunk, ServiceNow, PagerDuty, and Azure Pipelines for incident response and performance monitoring.
+- Automate ETL processes and optimize system performance through proactive troubleshooting.
+- Collaborate cross-functionally to resolve issues, enhance workflows, and improve data reporting pipelines.
+- Contribute to process documentation and knowledge sharing to maintain high operational standards.
 
 ---
 
