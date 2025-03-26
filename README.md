@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="170">
-      <img src="https://github.com/brnhaze/Portfolio/blob/main/portfolio_image.jpg)" alt="Ashwin Profile Picture" width="150"/>
+      <img src="https://raw.githubusercontent.com/brnhaze/Portfolio/main/portfolio_image.jpg" alt="Ashwin Profile Picture" width="150"/>
     </td>
     <td>
       <h3>Ashwin</h3>
@@ -12,7 +12,7 @@
       <p>
         <a href="mailto:ashwinpraneelpal@hotmail.com">📧 Email</a> |
         <a href="https://www.linkedin.com/in/ashwinpal17/">🔗 LinkedIn</a> |
-        <a href="https://github.com/brnhaze">💻 GitHub</a>
+        <a href="https://github.com/brnhaze/Portfolio/blob/main/README.md">💻 GitHub</a>
       </p>
     </td>
   </tr>
