@@ -86,7 +86,7 @@ Analyzes NFL penalties by player position using PostgreSQL and Tableau.
 
 - MIT – Applied Data Science Program (ADSP)
 - [Lighthouse Labs – Data Analytics Diploma  ](https://drive.google.com/file/d/1ZOCayHv5jsZlgkzW6tGexeAJ85jwSjIy/view?usp=drive_link)
-- [BCIT – Computer Information Systems Administration Diploma}(https://drive.google.com/file/d/1nBbuoL2uJSxZW7VFi127-Ve5jHlG9nW1/view?usp=drive_link)
+- [BCIT – Computer Information Systems Administration Diploma](https://drive.google.com/file/d/1nBbuoL2uJSxZW7VFi127-Ve5jHlG9nW1/view?usp=drive_link)
 - [Google Cybersecurity Certificate – Coursera](https://drive.google.com/file/d/1dar56FoOZOFtfPi_y1QSuXc1eKBmj_zp/view?usp=drive_link)
 - [Microsoft Certified Data Analyst Associate – Power BI](https://drive.google.com/file/d/1FxhwwFys8ZnkvQa6axn2sKgh-kJa_uD1/view?usp=drive_link)
 - [JIBC – Law Enforcement Studies Diploma](https://drive.google.com/file/d/1_-KxEw3X4hKcqmvhLuSRbENABqgnv3M4/view?usp=drive_link)
