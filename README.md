@@ -28,14 +28,12 @@ Welcome to my GitHub Portfolio—a collection of end-to-end data science project
 
 ## 🚀 Featured Projects
 
-### 🚀 Liver Disease Image Classification (Deep Learning)
+### 🩺 Liver Disease Image Classification (Deep Learning)
 Built two progressive deep learning pipelines to classify liver disease tissue images using histopathology data.
 - [**Notebook 1:**](https://github.com/brnhaze/Portfolio/blob/main/Liver%20Disease/Liver%20Disease%20Deep%20learning%20image%20Classification%201.html) Developed a custom CNN model trained on 128×128 resized liver images. Served as a baseline using fundamental convolutional layers for binary classification. Focused on building a functional pipeline from scratch using raw image data. Implemented using TensorFlow, Keras, and Matplotlib for training, visualization, and evaluation.
 - [**Notebook 2:**](https://github.com/brnhaze/Portfolio/blob/main/Liver%20Disease/Liver%20Disease%20Deep%20learning%20image%20Classification%202.html) Rebuilt and improved the project using transfer learning (VGG16), upgraded input size (224×224), and added multiple deep learning models. This version addressed memory issues from the first notebook, added better evaluation with confusion matrices and accuracy/loss comparisons, and delivered stronger performance. Utilized TensorFlow, Keras, Scikit-learn, and VGG16 from `keras.applications` for enhanced modeling and analysis.
 
-
-
-### [🎯 Liver Disease Prediction (Deep Learning)](https://github.com/brnhaze/Portfolio/blob/main/Liver%20Disease/Predicting_Liver_Disease_Using_Machine_Learning_A_Data_Driven_Approach_in_Binary_Classification.html)
+### [🩺 Liver Disease Prediction (Deep Learning)](https://github.com/brnhaze/Portfolio/blob/main/Liver%20Disease/Predicting_Liver_Disease_Using_Machine_Learning_A_Data_Driven_Approach_in_Binary_Classification.html)
 Uses neural networks and ensemble models to predict liver disease. Applied TensorFlow, Keras, XGBoost, and LightGBM, with preprocessing and EDA done using Pandas, NumPy, and Seaborn.
 
 ### [🎵 Music Genre Classification](https://github.com/brnhaze/Portfolio/blob/main/Music%20Genre/Music%20Genre%20Classification%20using%20Deep%20Learning.html)
