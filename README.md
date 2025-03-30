@@ -28,7 +28,7 @@ Welcome to my GitHub Portfolio—a collection of end-to-end data science project
 
 ## 🚀 Featured Projects
 
-### [🩺 Diabetes Prediction (Deep Learning)]()
+### [🩺 Diabetes Prediction (Deep Learning)](https://github.com/brnhaze/Portfolio/blob/main/Diabetes/Predicting%20Chance%20of%20Diabetes%20Deep%20Learning%20Regression.html)
 Builds multiple deep learning models to classify diabetes risk using clinical data. Compares model architectures and evaluates performance using training/validation/test metrics.  
 Applies TensorFlow and Keras with preprocessing and EDA done using Pandas, NumPy, and Seaborn.
 
