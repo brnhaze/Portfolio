@@ -28,6 +28,10 @@ Welcome to my GitHub Portfolio—a collection of end-to-end data science project
 
 ## 🚀 Featured Projects
 
+### [🩺 Diabetes Prediction (Deep Learning)]()
+Builds multiple deep learning models to classify diabetes risk using clinical data. Compares model architectures and evaluates performance using training/validation/test metrics.  
+Applies TensorFlow and Keras with preprocessing and EDA done using Pandas, NumPy, and Seaborn.
+
 ### 🩺 Liver Disease Image Classification (Deep Learning)
 Built two progressive deep learning pipelines to classify liver disease tissue images using histopathology data.
 - [**Notebook 1:**](https://github.com/brnhaze/Portfolio/blob/main/Liver%20Disease/Liver%20Disease%20Deep%20learning%20image%20Classification%201.html) Developed a custom CNN model trained on 128×128 resized liver images. Served as a baseline using fundamental convolutional layers for binary classification. Focused on building a functional pipeline from scratch using raw image data. Implemented using TensorFlow, Keras, and Matplotlib for training, visualization, and evaluation.
