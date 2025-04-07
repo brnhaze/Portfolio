@@ -78,16 +78,13 @@ Predicts MSRP using regression and feature engineering on automotive datasets.
 Real-time data scraping and sentiment analysis using News API and NLP.
 
 ### [🎮 IGN Video Game Ratings](https://public.tableau.com/app/profile/ashwin.pal3698/viz/IGNVideoGameRatings/Dashboard1)
-Data cleaning, SQL, and interactive Tableau/Power BI dashboards for game reviews.
-- [Tableau](https://public.tableau.com/views/IGNVideoGameRatings/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-- [Power BI](https://github.com/brnhaze/Portfolio/blob/main/IGN%20VIdeo%20Game%20Rarings/powerBI/file.pdf)
+Data cleaning, SQL, and interactive [Tableau](https://public.tableau.com/views/IGNVideoGameRatings/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) / [Power BI](https://github.com/brnhaze/Portfolio/blob/main/IGN%20VIdeo%20Game%20Rarings/powerBI/file.pdf) dashboards for game reviews.
 
 ### [📺 Disney Movies QA](https://github.com/brnhaze/Portfolio/tree/main/Disney_Movies/Cleaned)
 Focus on QA processes using Python, Excel, and SQL for profiling and cleaning.
 
 ### [🏈 NFL Penalty Capstone](https://public.tableau.com/app/profile/ashwin.pal3698/viz/NFLPenaltyAnalysis/Story)
-Analyzes NFL penalties by player position using PostgreSQL and Tableau.
-- [Tableau](https://public.tableau.com/views/NFLPenaltyAnalysis/Story?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Analyzes NFL penalties by player position using PostgreSQL and [Tableau](https://public.tableau.com/views/NFLPenaltyAnalysis/Story?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ### [📊 Excel Dashboard & Analytics](https://github.com/brnhaze/Portfolio/blob/main/Excel/walkthrough.md)
 Built a dynamic Excel dashboard to track and visualize performance metrics using real-time formulas, conditional formatting, and interactive charts.
