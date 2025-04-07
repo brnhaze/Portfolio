@@ -28,6 +28,9 @@ Welcome to my GitHub Portfolio—a collection of end-to-end data science project
 
 ## 🚀 Featured Projects
 
+### [📚 Deep Learning Text Classification with Transformers](https://github.com/brnhaze/Portfolio/blob/main/Text%20Classification/Deep%20Learning%20Text%20Classification%20with%20Transformers%204.html)
+Applies Transformer-based models (like BERT) to classify text data into multiple categories. Preprocesses text, encodes labels, and handles class imbalance. Uses TensorFlow/Keras and Hugging Face Transformers to fine-tune pre-trained models. Evaluates model performance using training, validation, and test metrics with confusion matrices and classification reports.
+
 ### [🩺 Diabetes Prediction (Deep Learning)](https://github.com/brnhaze/Portfolio/blob/main/Diabetes/Predicting%20Chance%20of%20Diabetes%20Deep%20Learning%20Regression.html)
 Builds multiple deep learning models to classify diabetes risk using clinical data. Compares model architectures and evaluates performance using training/validation/test metrics. Applies TensorFlow and Keras with preprocessing and EDA done using Pandas, NumPy, and Seaborn.
 
