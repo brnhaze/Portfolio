@@ -12,10 +12,12 @@
   <a href="https://www.linkedin.com/in/ashwinpal17/">🔗 LinkedIn</a> |
   <a href="https://github.com/brnhaze/Portfolio/blob/main/README.md">💻 GitHub</a> |
   <a href="https://www.mygreatlearning.com/eportfolio/ashwin-pal" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/2560px-MIT_logo.svg.png" 
-         alt="MIT Certification" width="50" style="vertical-align: middle;">
-    MIT Cert
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/2560px-MIT_logo.svg.png"
+       alt="MIT Certification"
+       height="16"
+       style="vertical-align: text-bottom;">
+  MIT Cert
+</a>
 </p>
 <br clear="left"/>
 
