@@ -29,7 +29,9 @@ Welcome to my GitHub Portfolio—a collection of end-to-end data science project
 
 ## 📚 Table of Contents
 
-[Projects](#-featured-projects) • [Skills & Tools](#-skills--tools) • [Work Experience](#-work-experience) • [Education](#-education) • [Contact](#-lets-connect)
+<div style="text-align: center;">
+  [Projects](#featured-projects) • [Skills & Tools](#skills--tools) • [Work Experience](#work-experience) • [Education](#education) • [Contact](#lets-connect)
+</div>
 
 ---
 
