@@ -37,6 +37,7 @@ Welcome to my GitHub Portfolio—a collection of end-to-end data science project
 
 ### [📈 Network Stock Portfolio Optimization](https://github.com/brnhaze/Portfolio/blob/main/Stocks/Network_Stock_Portfolio_Optimization_2.html)
 This project simulates and compares investment strategies using S&P 500 stock data and network-based clustering. It involves downloading historical price data with the `yfinance` API, isolating 'Close' prices from multi-index DataFrames, and cleaning the dataset for analysis. The simulation evaluates portfolio growth for different initial investments and compares the performance of central and peripheral portfolios against the S&P 500 benchmark, with results visualized using matplotlib.
+- [Network Portfolio Optimization Report](https://github.com/brnhaze/Portfolio/blob/main/Stocks/Network_Portfolio_Optimization_Report.pdf)
 
 ### [📚 Deep Learning Text Classification with Transformers](https://github.com/brnhaze/Portfolio/blob/main/Text%20Classification/Deep%20Learning%20Text%20Classification%20with%20Transformers%204.html)
 Applies Transformer-based models (like BERT) to classify text data into multiple categories. Preprocesses text, encodes labels, and handles class imbalance. Uses TensorFlow/Keras and Hugging Face Transformers to fine-tune pre-trained models. Evaluates model performance using training, validation, and test metrics with confusion matrices and classification reports.
