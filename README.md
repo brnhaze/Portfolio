@@ -16,7 +16,7 @@
        alt="MIT"
        height="16"
        style="vertical-align: text-bottom;">
-  MIT Cert
+  MIT Portfolio
 </a>
 </p>
 <br clear="left"/>
