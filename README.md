@@ -41,6 +41,7 @@ This project analyzes employee attrition using the IBM HR dataset and implements
 Feature importance was explored using SHAP to gain model-agnostic interpretability and explainability. Special focus was given to threshold optimization techniques to improve recall for the minority class (employees who left), which is critical for actionable HR interventions. Logistic Regression with a tuned threshold of 0.35 emerged as the most balanced and production-ready model, while LDA showed comparable performance after threshold adjustment. KNN and QDA were found to overfit to the minority class without class-balancing methods.
 
 This project was developed using Python in a Jupyter Notebook environment. It leverages pandas, numpy, matplotlib, and seaborn for data analysis and visualization. scikit-learn was used extensively for modeling, evaluation metrics, and hyperparameter tuning through GridSearchCV. SHAP was applied for detailed model interpretation, particularly to visualize how features like OverTime, JobRole, and MaritalStatus impact attrition risk. The final notebook provides a clear, business-friendly summary with actionable insights and model recommendations.
+- [Report](https://github.com/brnhaze/Portfolio/blob/main/Employee%20Attrition/IBM_HR_Attrition_Report.docx)
 
 
 ### [📈 Network Stock Portfolio Optimization](https://github.com/brnhaze/Portfolio/blob/main/Stocks/Network_Stock_Portfolio_Optimization_2.html)
