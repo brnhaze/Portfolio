@@ -35,6 +35,14 @@ Welcome to my GitHub Portfolio—a collection of end-to-end data science project
 
 ## 🚀 Featured Projects
 
+### [📊 IBM HR Attrition Prediction](https://github.com/brnhaze/Portfolio/blob/main/Employee%20Attrition/IBM%20HR%20Employee%20Attrition.html)
+This project analyzes employee attrition using the IBM HR dataset and implements a range of classification models to predict which employees are most likely to leave the company. The analysis begins with thorough exploratory data analysis (EDA) to uncover key trends and relationships between features and attrition outcomes. Models such as Logistic Regression, Linear Discriminant Analysis (LDA), K-Nearest Neighbors (KNN), and Quadratic Discriminant Analysis (QDA) were trained and evaluated.
+
+Feature importance was explored using SHAP to gain model-agnostic interpretability and explainability. Special focus was given to threshold optimization techniques to improve recall for the minority class (employees who left), which is critical for actionable HR interventions. Logistic Regression with a tuned threshold of 0.35 emerged as the most balanced and production-ready model, while LDA showed comparable performance after threshold adjustment. KNN and QDA were found to overfit to the minority class without class-balancing methods.
+
+This project was developed using Python in a Jupyter Notebook environment. It leverages pandas, numpy, matplotlib, and seaborn for data analysis and visualization. scikit-learn was used extensively for modeling, evaluation metrics, and hyperparameter tuning through GridSearchCV. SHAP was applied for detailed model interpretation, particularly to visualize how features like OverTime, JobRole, and MaritalStatus impact attrition risk. The final notebook provides a clear, business-friendly summary with actionable insights and model recommendations.
+
+
 ### [📈 Network Stock Portfolio Optimization](https://github.com/brnhaze/Portfolio/blob/main/Stocks/Network_Stock_Portfolio_Optimization_2.html)
 This project simulates and compares investment strategies using S&P 500 stock data and network-based clustering. It involves downloading historical price data with the `yfinance` API, isolating 'Close' prices from multi-index DataFrames, and cleaning the dataset for analysis. The simulation evaluates portfolio growth for different initial investments and compares the performance of central and peripheral portfolios against the S&P 500 benchmark, with results visualized using matplotlib.
 - [Network Portfolio Optimization Report](https://github.com/brnhaze/Portfolio/blob/main/Stocks/Network_Portfolio_Optimization_Report.pdf)
