@@ -44,7 +44,7 @@ Threshold tuning was applied to Logistic Regression and LDA models to improve se
 
 The project was built using Python in Jupyter Notebook, and leverages libraries such as scikit-learn, pandas, numpy, matplotlib, seaborn, and SHAP. All results are summarized in a business-facing report available below.
 - [Report (pdf)](https://github.com/brnhaze/Portfolio/blob/main/Employee%20Attrition/Report%20pdf.pdf)
-- [Report(docx)](https://github.com/brnhaze/Portfolio/blob/main/Employee%20Attrition/Report%20docx.docx)
+- [Report(docx)](https://github.com/brnhaze/Portfolio/blob/main/Employee%20Attrition/Report%20docx.pdf)
 
 ### [📊 IBM HR Attrition Prediction](https://github.com/brnhaze/Portfolio/blob/main/Employee%20Attrition/IBM%20HR%20Employee%20Attrition.html)
 This project analyzes employee attrition using the IBM HR dataset and implements a range of classification models to predict which employees are most likely to leave the company. The analysis begins with thorough exploratory data analysis (EDA) to uncover key trends and relationships between features and attrition outcomes. Models such as Logistic Regression, Linear Discriminant Analysis (LDA), K-Nearest Neighbors (KNN), and Quadratic Discriminant Analysis (QDA) were trained and evaluated.
