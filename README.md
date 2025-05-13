@@ -43,7 +43,6 @@ Multiple classification models were developed, including Logistic Regression, Li
 Threshold tuning was applied to Logistic Regression and LDA models to improve sensitivity, and GridSearchCV was used to optimize decision tree and random forest hyperparameters. Feature importance was evaluated using SHAP values, with key predictors identified as OverTime, MonthlyIncome, JobRole, and WorkLifeBalance. These findings align with HR business intuition and can inform strategic retention programs.
 
 The project was built using Python in Jupyter Notebook, and leverages libraries such as scikit-learn, pandas, numpy, matplotlib, seaborn, and SHAP. All results are summarized in a business-facing report available below.
-- 
 
 ### [📊 IBM HR Attrition Prediction](https://github.com/brnhaze/Portfolio/blob/main/Employee%20Attrition/IBM%20HR%20Employee%20Attrition.html)
 This project analyzes employee attrition using the IBM HR dataset and implements a range of classification models to predict which employees are most likely to leave the company. The analysis begins with thorough exploratory data analysis (EDA) to uncover key trends and relationships between features and attrition outcomes. Models such as Logistic Regression, Linear Discriminant Analysis (LDA), K-Nearest Neighbors (KNN), and Quadratic Discriminant Analysis (QDA) were trained and evaluated.
