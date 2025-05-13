@@ -35,6 +35,16 @@ Welcome to my GitHub Portfolio—a collection of end-to-end data science project
 
 ## 🚀 Featured Projects
 
+### [📊 IBM HR Attrition Prediction](https://github.com/brnhaze/Portfolio/blob/main/Employee%20Attrition/Employee%20Attrition%20Prediction.html)
+This project explores employee attrition using the IBM HR dataset, with the goal of predicting which employees are most likely to leave. The analysis begins with a comprehensive exploratory data analysis (EDA) to understand key patterns related to job roles, compensation, work-life balance, and overtime. These insights helped shape the modeling strategies and feature engineering decisions.
+
+Multiple classification models were developed, including Logistic Regression, Linear Discriminant Analysis (LDA), K-Nearest Neighbors (KNN), Quadratic Discriminant Analysis (QDA), Random Forest (with class weighting and hyperparameter tuning), and boosting algorithms such as AdaBoost, Gradient Boosting, and XGBoost. Each model was evaluated using accuracy, precision, recall, and F1-score, with a particular focus on recall for the attrition class (label = 1), since it is more critical to identify at-risk employees.
+
+Threshold tuning was applied to Logistic Regression and LDA models to improve sensitivity, and GridSearchCV was used to optimize decision tree and random forest hyperparameters. Feature importance was evaluated using SHAP values, with key predictors identified as OverTime, MonthlyIncome, JobRole, and WorkLifeBalance. These findings align with HR business intuition and can inform strategic retention programs.
+
+The project was built using Python in Jupyter Notebook, and leverages libraries such as scikit-learn, pandas, numpy, matplotlib, seaborn, and SHAP. All results are summarized in a business-facing report available below.
+- 
+
 ### [📊 IBM HR Attrition Prediction](https://github.com/brnhaze/Portfolio/blob/main/Employee%20Attrition/IBM%20HR%20Employee%20Attrition.html)
 This project analyzes employee attrition using the IBM HR dataset and implements a range of classification models to predict which employees are most likely to leave the company. The analysis begins with thorough exploratory data analysis (EDA) to uncover key trends and relationships between features and attrition outcomes. Models such as Logistic Regression, Linear Discriminant Analysis (LDA), K-Nearest Neighbors (KNN), and Quadratic Discriminant Analysis (QDA) were trained and evaluated.
 
