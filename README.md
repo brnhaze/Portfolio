@@ -23,7 +23,7 @@
 
 **Passionate about Data Engineering, Machine Learning, and building scalable data solutions.**
 
-Welcome to my GitHub Portfolio—a collection of end-to-end projects showcasing my expertise in ETL pipelines, real-time streaming, big data processing, and ML/AI solutions. I work with tools like Python, SQL, Spark, Airflow, Docker, Kafka, and visualization platforms such as Power BI and Tableau, with hands-on projects published here.
+Welcome to my GitHub Portfolio—a collection of end-to-end data science and engineering projects, each showcasing my skills in data wrangling, ETL pipelines, big data processing, machine learning, deep learning, and real-time data streaming. I apply tools such as Python, SQL, Spark, Airflow, Docker, and Kafka, along with visualization platforms like Power BI, Tableau, and D3.js, to analyze and present insights through interactive dashboards. My work also includes API-driven applications, CI/CD implementations, and hands-on projects published here to demonstrate practical, production-ready solutions.
 
 ---
 
