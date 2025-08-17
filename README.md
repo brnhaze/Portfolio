@@ -21,9 +21,9 @@
 </p>
 <br clear="left"/>
 
-**Passionate about Data Science, Analytics, and using AI to drive smarter, data-driven decisions.**
+**Passionate about Data Engineering, Machine Learning, and building scalable data solutions.**
 
-Welcome to my GitHub Portfolio—a collection of end-to-end data science projects, each showcasing my skills in data wrangling, machine learning, deep learning, and visualization using tools like Python, SQL, Power BI, and Tableau.
+Welcome to my GitHub Portfolio—a collection of end-to-end projects showcasing my expertise in ETL pipelines, real-time streaming, big data processing, and ML/AI solutions. I work with tools like Python, SQL, Spark, Airflow, Docker, Kafka, and visualization platforms such as Power BI and Tableau, with hands-on projects published here.
 
 ---
 
