@@ -55,10 +55,10 @@ This project develops a full **ETL pipeline** using the *Monthly Retail Trade Su
   - Built Python installation scripts (`install_mrts_mysql.py`, `install_mrts_simple.py`) to create a MySQL database, define schema, and bulk-insert rows.  
   - Validated row counts and distinct categories in **MySQL Workbench**.  
 
-Outcome: 
-The ETL pipeline successfully converted raw survey data into a structured, queryable format. This enabled trend analysis, seasonal exploration, and forecasting of Canadian retail sales. Key insights include steady long-run growth, seasonal peaks during holidays, and sharp declines during economic shocks (2008, 2020).  
-
-[📄 View Project Notebook](https://github.com/brnhaze/Portfolio/blob/main/Module%208_Final_Project_Template.html)
+  Outcome: 
+  The ETL pipeline successfully converted raw survey data into a structured, queryable format. This enabled trend analysis, seasonal exploration, and forecasting of Canadian retail sales. Key insights include steady long-run growth, seasonal peaks during holidays, and sharp declines during economic shocks (2008, 2020).  
+  
+  [📄 View Project Notebook](https://github.com/brnhaze/Portfolio/blob/main/Module%208_Final_Project_Template.html)
 
 ### [📊 IBM HR Attrition Prediction](https://github.com/brnhaze/Portfolio/blob/main/Employee%20Attrition/Employee%20Attrition%20Prediction.html)
 This project explores employee attrition using the IBM HR dataset, with the goal of predicting which employees are most likely to leave. The analysis begins with a comprehensive exploratory data analysis (EDA) to understand key patterns related to job roles, compensation, work-life balance, and overtime. These insights helped shape the modeling strategies and feature engineering decisions.
