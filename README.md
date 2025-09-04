@@ -35,7 +35,7 @@ Welcome to my GitHub Portfolio—a collection of end-to-end data science and eng
 
 ## 🚀 Featured Projects
 
-### [📊 Building an ETL Pipeline for Canadian Retail Sales (MRTS)](https://github.com/brnhaze/Portfolio/blob/main/Module%208_Final_Project_Template.html)
+### [📊 Building an ETL Pipeline for Canadian Retail Sales (MRTS)](https://github.com/brnhaze/Portfolio/blob/main/ETL_MRTS/Module%208_Final_Project_Template.html)
 This project develops a full **ETL pipeline** using the *Monthly Retail Trade Survey (MRTS)* dataset from Statistics Canada to study long-term consumer spending patterns.  
 
 - Extract 
