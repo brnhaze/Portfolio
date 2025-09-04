@@ -21,7 +21,7 @@
 </p>
 <br clear="left"/>
 
-**Passionate about Data Engineering, Machine Learning, and building scalable data solutions.**
+**Passionate about Data Engineering, Science, Analytics, & Machine Learning; building scalable data solutions.**
 
 Welcome to my GitHub Portfolio—a collection of end-to-end data science and engineering projects, each showcasing my skills in data wrangling, ETL pipelines, big data processing, machine learning, deep learning, and real-time data streaming. I apply tools such as Python, SQL, Spark, Airflow, Docker, and Kafka, along with visualization platforms like Power BI, Tableau, and D3.js, to analyze and present insights through interactive dashboards. My work also includes API-driven applications, CI/CD implementations, and hands-on projects published here to demonstrate practical, production-ready solutions.
 
@@ -34,6 +34,31 @@ Welcome to my GitHub Portfolio—a collection of end-to-end data science and eng
 ---
 
 ## 🚀 Featured Projects
+
+### [📊 Building an ETL Pipeline for Canadian Retail Sales (MRTS)](https://github.com/brnhaze/Portfolio/blob/main/Module%208_Final_Project_Template.html)
+This project develops a full **ETL pipeline** using the *Monthly Retail Trade Survey (MRTS)* dataset from Statistics Canada to study long-term consumer spending patterns.  
+
+- Extract 
+  - Pulled raw data from multi-year Excel worksheets (1992–2021).  
+  - Parsed NAICS codes, business categories, and monthly sales values.  
+  - Generated both adjusted and non-adjusted versions to preserve seasonal insights.  
+
+- Transform
+  - Standardized dates into `YYYY-MM` format.  
+  - Cleaned and harmonized “Kind of Business” entries.  
+  - Removed nulls, duplicates, and aggregated overlapping rows.  
+  - Reshaped into a long-format table (`Kind of Business`, `YYYY_MM`, `Total_Sales`).  
+  - Added derived metrics like month-over-month and year-over-year changes.  
+
+- Load  
+  - Exported the transformed dataset (~23,000+ records across 68 business categories) to CSV.  
+  - Built Python installation scripts (`install_mrts_mysql.py`, `install_mrts_simple.py`) to create a MySQL database, define schema, and bulk-insert rows.  
+  - Validated row counts and distinct categories in **MySQL Workbench**.  
+
+Outcome: 
+The ETL pipeline successfully converted raw survey data into a structured, queryable format. This enabled trend analysis, seasonal exploration, and forecasting of Canadian retail sales. Key insights include steady long-run growth, seasonal peaks during holidays, and sharp declines during economic shocks (2008, 2020).  
+
+[📄 View Project Notebook](https://github.com/brnhaze/Portfolio/blob/main/Module%208_Final_Project_Template.html)
 
 ### [📊 IBM HR Attrition Prediction](https://github.com/brnhaze/Portfolio/blob/main/Employee%20Attrition/Employee%20Attrition%20Prediction.html)
 This project explores employee attrition using the IBM HR dataset, with the goal of predicting which employees are most likely to leave. The analysis begins with a comprehensive exploratory data analysis (EDA) to understand key patterns related to job roles, compensation, work-life balance, and overtime. These insights helped shape the modeling strategies and feature engineering decisions.
